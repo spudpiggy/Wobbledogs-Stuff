@@ -1,0 +1,921 @@
+^^^2^a910F9aAA7C1cBC1FFe83FE0cF9550bFB270aFAABEdF807CeF83E0F83E4D9364D8000tttttttttttttttttt:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:m:m^FFAFACFFFFFEBEFFFBEEEF3FFFFEFF3F^ADULT^0^0^0^1111100^Default
+
+^^^2^a91000jF822FeFF820FF800sFB270aFAABEdF8000oF83E0F9364D9360ttttttttttttttttttj:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:m:m^FFAFACFFFFFEBEFFFBEEEF3FFFFEFF3F^ADULT^0^0^0^1111100^Default
+
+[Body]
+Metallic
+00011
+11100
+
+Gloss
+10101
+01010
+
+Emission
+01111
+10000
+
+01000
+10111
+
+10000
+01111
+
+Base
+11111
+00000
+
+10000
+01111
+
+11111
+00000
+
+[Leg]
+Metallic
+00011
+11100
+
+Gloss
+10101
+01010
+
+Emission
+00000
+11111
+
+01100
+10011
+
+10000
+01111
+
+Base
+10101
+01010
+
+11111
+00000
+
+11111
+00000
+
+[EarNose]
+Metallic
+00011
+11100
+
+Gloss
+00000
+11111
+
+Emission
+00000
+11111
+
+00000
+11111
+
+00000
+11111
+
+Base
+00100
+11011
+
+00100
+11011
+
+00100
+11011
+
+===
+If the number ends in .5 so it is halfway between two integers, one of which is even and the other odd, the even number is returned.
+[Body]
+3
+28
+
+21
+10
+
+31
+0
+
+16
+15
+
+31
+0
+
+15
+16
+
+8
+23
+
+16
+15
+
+[EarNose]
+3
+28
+
+0
+31
+
+4
+27
+
+4
+27
+
+4
+27
+
+0
+31
+
+0
+31
+
+0
+31
+
+[Leg]
+3
+28
+
+21
+10
+
+21
+10
+
+31
+0
+
+31
+0
+
+0
+31
+
+12
+19
+
+16
+15
+
+===
+[Body]
+2.573
+28.427
+
+20.925
+10.075
+
+30.7956418
+0.2043582
+
+16.1838228
+14.8161772
+
+31
+0
+
+15.3978209
+15.6021791
+
+8.0919114
+22.9080886
+
+15.5
+15.5
+
+[EarNose]
+2.573
+28.427
+
+0
+31
+
+4.0117658
+26.9882342
+
+4.0117658
+26.9882342
+
+4.0117658
+26.9882342
+
+0
+31
+
+0
+31
+
+0
+31
+
+[Leg]
+2.573
+28.427
+
+20.925
+10.075
+
+20.7426487
+10.2573513
+
+31
+0
+
+30.6121218
+0.3878782
+
+0
+31
+
+12.2930996
+18.7069004
+
+15.5
+15.5
+
+===
+[Body 00 (pink)]
+_Metallic
+Plus
+0.083
+
+Minus
+0.917
+
+2.573
+28.427
+
+_Glossiness
+Plus
+0.675
+
+Minus
+0.325
+
+20.925
+10.075
+
+_Color (float)
+Plus
+R   0.9934078
+G   0.5220588
+B   1
+A   1
+
+Minus
+R   0.0065922
+G   0.4779412
+B   0
+A   0
+
+Plus
+253
+133
+255
+255
+
+Minus
+2
+122
+0
+0
+
+30.7956418
+0.2043582
+
+16.1838228
+14.8161772
+
+31
+0
+
+_Emission (float)
+Plus
+R   0.4967039
+G   0.2610294
+B   0.5
+A   1
+
+Minus
+R   0.5032961
+G   0.7389706
+B   0.5
+A   0
+
+Plus
+127
+67
+128
+255
+
+Minus
+128
+188
+128
+0
+
+15.3978209
+15.6021791
+
+8.0919114
+22.9080886
+
+15.5
+15.5
+
+[Wing Mat (pink)]
+_Metallic
+Plus
+0.083
+
+Minus
+0.917
+
+_Glossiness
+Plus
+0.6
+
+Minus
+0.4
+
+_Color (float)
+Plus
+R   0.9934078
+G   0.5220588
+B   1
+A   1
+
+Minus
+R   0.0065922
+G   0.4779412
+B   0
+A   0
+
+Plus
+253
+133
+255
+255
+
+Minus
+2
+122
+0
+0
+
+_Emission (float)
+Plus
+R   0
+G   0.3965515
+B   0.5
+A   1
+
+Minus
+R   1
+G   0.6034485
+B   0.5
+A   0
+
+Plus
+0
+101
+128
+255
+
+Minus
+255
+154
+128
+0
+
+[HornMat Cream]
+_Metallic
+Plus
+0
+
+Minus
+1
+
+_Glossiness
+Plus
+0.361
+
+Minus
+0.639
+
+_Color (float)
+Plus
+R   1
+G   0.9888661
+B   0.8632076
+A   1
+
+Minus
+0
+0.0111339
+0.1367924
+0
+
+Plus
+255
+252
+220
+255
+
+Minus
+0
+3
+35
+0
+
+_Emission (float)
+Plus
+R   0
+G   0
+B   0
+A   1
+
+Minus
+1
+1
+1
+0
+
+Plus
+0
+0
+0
+255
+
+Minus
+255
+255
+255
+0
+
+[EarNoseMat Grey]
+_Metallic
+Plus
+0.083
+
+Minus
+0.917
+
+_Glossiness
+Plus
+0
+
+Minus
+1
+
+2.573
+28.427
+
+0
+31
+
+_Color (float)
+Plus
+R   0.1294118
+G   0.1294118
+B   0.1294118
+A   1
+
+Minus
+R   0.8705882
+G   0.8705882
+B   0.8705882
+A   0
+
+Plus
+33
+33
+33
+255
+
+Minus
+222
+222
+222
+0
+
+4.0117658
+26.9882342
+
+4.0117658
+26.9882342
+
+4.0117658
+26.9882342
+
+_Emission (float)
+Plus
+R   0
+G   0
+B   0
+A   1
+
+Minus
+R   1
+G   1
+B   1
+A   0
+
+Plus
+0
+0
+0
+255
+
+Minus
+255
+255
+255
+0
+
+0
+31
+
+0
+31
+
+0
+31
+
+[Leg 00 Blue]
+_Metallic
+Plus
+0.083
+
+Minus
+0.917
+
+2.573
+28.427
+
+_Glossiness
+Plus
+0.675
+
+Minus
+0.325
+
+20.925
+10.075
+
+_Color (float)
+Plus
+R   0.6691177
+G   1
+B   0.9874878
+A   1
+
+Minus
+R   0.3308823
+G   0
+B   0.0125122
+A   0
+
+Plus
+171
+255
+252
+255
+
+Minus
+84
+0
+3
+0
+
+20.7426487
+10.2573513
+
+31
+0
+
+30.6121218
+
+
+_Emission (float)
+Plus
+R   0
+G   0.3965516
+B   0.5
+A   1
+
+Minus
+R   1
+G   0.6034484
+B   0.5
+A   0
+
+Plus
+0
+101
+128
+255
+
+Minus
+255
+154
+128
+0
+
+0
+31
+
+12.2930996
+18.7069004
+
+15.5
+15.5
+
+DogFaceColor Blue
+_Glossiness
+Plus
+0.4
+
+Minus
+0.6
+
+_Metallic
+Plus
+0.083
+
+Minus
+0.917
+
+_Color (float)
+Plus
+R   0.6691177
+G   1
+B   0.9874878
+A   1
+
+Minus
+R   0.3308823
+G   0
+B   0.0125122
+A   0
+
+Plus
+171
+255
+252
+255
+
+Minus
+84
+0
+3
+0
+
+_Emission (float)
+Plus
+R   0
+G   0.3965516
+B   0.5
+A   1
+
+Minus
+R   1
+G   0.6034484
+B   0.5
+A   0
+
+Plus
+0
+101
+128
+255
+
+Minus
+255
+154
+128
+0
+===
+{fileID: 1 (globalgamemanagers.assets), pathID: 748, m_Name: DogProfile, type: MonoScript}
+41ff0f91ec664a32a746d1dd0708f1bd
+a1ab06bcc1e449d892819c5692241757
+
+Color to HSV
+num = Max(r, Max(g, b))
+num2 = Min(r, Min(g, b))
+num3 = num - num2
+
+if (num3 = 0f)
+    hue = 0f
+    sat = 0f
+
+sat = num3/num
+num4 = ((num - r) / 6f + num3 / 2f) / num3
+num5 = ((num - g) / 6f + num3 / 2f) / num3
+num6 = ((num - b) / 6f + num3 / 2f) / num3
+
+if (r = num)
+    hue = num6 - num5
+
+else if (g = num)
+    hue = 0.33333334f + num4 - num6
+
+else
+    hue = 0.6666667f + num5 - num4
+
+if (hue < 0f)
+    hue+= 1f
+
+if (hue > 1f)
+    hue -= 1f
+
+MetallicMin = _Metallic
+MetallicMax -= MetallicMin
+GlossMin = _Glossiness
+GlossMax -= GlossMin
+
+RMin = _ColorR
+RMax = Max(defaultColorMax - R, 0f)
+GMin = _ColorG
+GMax = Max(defaultColorMax - G, 0f)
+RMin = _ColorB
+RMax = Max(defaultColorMax - B, 0f)
+
+RMin = _EmissionR
+RMax = Max(defaultEmissionColorMax - R, 0f)
+GMin = _EmissionG
+GMax = Max(defaultEmissionColorMax - G, 0f)
+RMin = _EmissionB
+RMax = Max(defaultEmissionColorMax - B, 0f)
+
+defaultEmissionColorMax = 0.95f;
+defaultColorMax = 1f;
+
+bodyMatMetallicMax = 0.95f;
+bodyMatGlossMax = 0.95f;
+
+legMatMetallicMax = 0.95f;
+legMatGlossMax = 0.95f;
+
+noseEarMatMetallicMax = 0.95f;
+noseEarMatGlossMax = 0.95f;
+
+textureAlphaMax = 1f;
+textureMetallicMax = 0.75f;
+textureSmoothnessMax = 0.75f;
+
+defaultColorMax = 1f;
+defaultEmissionColorMax = 0.95f;
+
+Color
+num3 = -(RMinus, 0f, RMin) + (RPlus, 0f, RMAX)
+num4 = -(GMinus, 0f, GMin) + (GPlus, 0f, GMAX)
+num5 = -(BMinus, 0f, BMin) + (BPlus, 0f, BMAX)
+color = (num3 + r, num4 + g, num5 + b, a)
+
+Emission
+num3 = -(RMinus, 0f, RMin) + (RPlus, 0f, RMAX)
+num4 = -(GMinus, 0f, GMin) + (GPlus, 0f, GMAX)
+num5 = -(BMinus, 0f, BMin) + (BPlus, 0f, BMAX)
+color = (num3 + r, num4 + g, num5 + b, a)
+
+red
+rgba(1f, 0f, 0f, 1f)
+
+green
+rgba(0f, 1f, 0f, 1f)
+
+blue
+rgba(0f, 0f, 1f, 1f)
+
+white
+rgba(1f, 1f, 1f, 1f)
+
+black
+rgba(0f, 0f, 0f, 1f)
+
+yellow
+rgba(1f, 0.92156863f, 0.015686275f, 1f)
+
+cyan
+rgba(0f, 1f, 1f, 1f)
+
+magenta
+rgba(1f, 0f, 1f, 1f)
+
+gray
+rgba(0.5f, 0.5f, 0.5f, 1f)
+
+grey
+rgba(0.5f, 0.5f, 0.5f, 1f)
+
+clear
+rgba(0f, 0f, 0f, 0f)
+
+11111 = 31
+00000 = 0
+
+11111 = 1F
+00000 = 0
+===
+Randy Dog Lab
+ctctctctctctmt:t1tt:c0ccF.a1FnA::90cccc^53:A:U:Tc0m:^6^6aRd1D1C1FtttctDFLt^tt:9:6:c:^:1:1:0:tLt:t:tFt:t:t0t:c^cccActFccFyc:nt0:t:::
+^a91000ttttttttttttttttttttttttttttn:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:m:m^FFAFACFFFF3^ADULT^0.0166659^111110^RandyDL
+===
+:c
+:c
+:c
+:c
+:c
+:c
+:c
+:c
+:c
+:c
+:c
+:c
+:c
+:c
+:c
+:c
+:c
+:c
+:c
+:c
+:c
+:c
+:c
+:c
+:m
+:m
+
+
+^FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFC1FFFFFFtttttttto:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:m:m^FFAFACFFFF3^ADULT^0.0166659^111110^Randy
+
+===
+IFS(
+E2="a","0",
+E2="b","00",
+E2="c","000",
+E2="d","0000",
+E2="e","00000",
+E2="f","000000",
+E2="g","0000000",
+E2="h","00000000",
+E2="i","000000000",
+E2="j","0000000000",
+E2="k","00000000000",
+E2="l","000000000000",
+E2="m","0000000000000",
+E2="n","00000000000000",
+E2="o","000000000000000",
+E2="p","0000000000000000",
+E2="q","00000000000000000",
+E2="r","000000000000000000",
+E2="s","0000000000000000000",
+E2="t","00000000000000000000",
+LEN(E2)=0,"",
+AND(LEN(E2)=1,FIND(REGEX(E2,"[0-7]"),E2,1)=1),BASE(DECIMAL(E2,16),2),
+AND(LEN(E2)=2,FIND(REGEX(E2,"[0-7]"),E2,1)=1),BASE(DECIMAL(E2,16),2),
+AND(LEN(E2)=3,FIND(REGEX(E2,"[0-7]"),E2,1)=1),BASE(DECIMAL(E2,16),2),
+AND(LEN(E2)=4,FIND(REGEX(E2,"[0-7]"),E2,1)=1),BASE(DECIMAL(E2,16),2),
+AND(LEN(E2)=5,FIND(REGEX(E2,"[0-7]"),E2,1)=1),BASE(DECIMAL(E2,16),2),
+AND(LEN(E2)=1,FIND(REGEX(E2,"[A-F8-9]"),E2,1)=1),BASE(DECIMAL(E2,16),2,4),
+AND(LEN(E2)=2,FIND(REGEX(E2,"[A-F8-9]"),E2,1)=1),BASE(DECIMAL(E2,16),2,8),
+AND(LEN(E2)=3,FIND(REGEX(E2,"[A-F8-9]"),E2,1)=1),BASE(DECIMAL(E2,16),2,12),
+AND(LEN(E2)=4,FIND(REGEX(E2,"[A-F8-9]"),E2,1)=1),BASE(DECIMAL(E2,16),2,16),
+AND(LEN(E2)=5,FIND(REGEX(E2,"[A-F8-9]"),E2,1)=1),BASE(DECIMAL(E2,16),2,20)
+)
+IF(AND(LEN(E2)=5,FIND(REGEX(E2,"[A-F8-9]"),E2,1)=1),BASE(DECIMAL(E2,16),2,20))
+
+=IFNA(IF(FIND(REGEX(H5,"[A-F8-9]"),H5,1)=1,BASE(DECIMAL(H5,16),2,20),""),"")
+
+IF(
+LEN(H2)>0,
+IF(
+FIND(IFNA(REGEX(H2,"[a-t]"),REGEX(H2,"[A-F0-9]")),H2,1)<2,
+IFNA(REGEX(H2,"[a-t]"),IF(LEN(H2)>=5,LEFT(H2,5),LEFT(H2,LEN(H2)))),
+IF(LEN(H2)>=5,LEFT(H2,5),LEFT(H2,LEN(H2)))
+),
+""
+)
+
+IF(
+FIND(REGEX(H3,"[A-F0-9]"),H3,1)=1
+,LEFT(H3,5),""
+)
+
+
+IF(
+LEN(H3)>0,
+IF(FIND(IFNA(REGEX(H3,"[a-t]"),REGEX(H3,"[A-F0-9]")),H3,1)<2,IFNA(REGEX(H3,"[a-t]"),IF(LEN(H3)>=5,LEFT(H3,5),LEFT(H3,LEN(H3)))),IF(LEN(H3)>=5,LEFT(H3,5),LEFT(H3,LEN(H3)))),"")
+===

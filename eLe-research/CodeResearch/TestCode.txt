@@ -1,0 +1,150 @@
+Default
+^^^2^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:m:m^FFAFACFFFFFEBEFFFBEEEF3FFFFEFF3F^ADULT^0^0^0^1111100^Dog
+
+^FFFE0F83E083C1FF820FeFFC1FjF83E0F83E0F83FFeF801FeF83E0F83E0F801FtttjF83E0F83E0F83FFF83E0FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF:c:c:7:c:c:c:c:c:c=7:c=7;7:c:c:c:c:c:c:c:c:c:c:c=1FFF=1FFF^FFFCFbF2000^ADULT^0^011000^
+
+^^^2^FFFE0F83E083C1FF820FeFFC1FjF83E0F83E0F83FFeF801FeF83E0F83E0F8000eF8000tttoF83E0F83E0F83FFF83E0FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF:c:c:7:c:c:c:c:c:c:c:c=7:c=7;7:c:c:c:c:c:c:c:c:c:c:c=1FFF:n^FFFCFd8200CFAFBFFEFBBBCFFFFFBFFF^ADULT^0^0^0^0110000^
+
+FFFCFbC2000FAFBFFEFBBBCFFFFFBFFF
+
+FFFCFd8200CFAFBFFEFBBBCFFFFFBFFF
+FF0F7FFC0CCC3FFFFFCFDF3FFFFFFF3F
+FFAFACFFFFCEBEFFFBEEEF3FFFFEFF3F
+
+
+FF240A8CC180110o6aF92e6b^04006^5A^99e9090:09^cD7C06p^:h1801091028908010F0A8C758900707012DEWa0:;85c38:a8;E^4:;::2::d::21cC2=bac50<=8c02cc:7^cF=;;ea1C:cF812;20cU.cFFcC79d7FF1D3FiB4c9DF308DCYcC3F3b50DPP8F9^505b100e17F:Do^0c081301iFp0fD1Dal0aE8:10092EFF0e04^D0Cb308:P02^F100E0C00=08Dc20:iF83.4
+^^^2^a98F75F283EeF079Ce90005bDCA1080228D3D1A89021D1528i8010ACF2CEeD01DCbC05DECD10F9D796D8002a81000i90000i80003h8C800o80200eD000090000b80000p80811p5800:4:c:;c;d3:c:c:c=b1:b1<a2:4:c:c:c:a2:c;c=a2=c;4:a2:c:c;c;eC4:d^FF4FFa9BE679FF98cF7FF3F3FFCc41CFF^PUPPY^1.535617^670.7398^0^1011100^Wolf
+
+^^^2^a91000ttttttttttttttttttttttttttttttd:4:c:;c;d3:c:c:c=b1:b1<a2:4:c:c:c:a2:c;c=a2=c;4:a2:c:c;c;eC4:d^FF4FFa9BE679FF98cF7FF3F3FFCc41CFF^ADULT^0^0^0^1111100^Dog
+
+ctctctctctc1c1c0cDcgc^cDcL:^:^:t:t:t:t:FFF:o:ccF:F:0:A:U:T:0:1c1:1:Ctott^tbtFtCtttttttt^t:t:t:t:t:t:c^c:c:cFcccccc
+:F:C:F:F:F:A:U:T:cc0:0c1c1c^c1:E:tctctFtFt^tctb:F:cFFFFcBaEBBFB^FDFLt^t^t^t^t1t1t0t^txtrtttt:FctcFc0cAcBctcF:tcCnt:^ntet:t:t:t:t:t^:c:2::c0c:c:cCc1FcF^F
+
+t1tmttE:c:FaF:U:T:0d1c1c1c^cc:c0EF::cEtEtctctFtF^Fc:C0FF3F^EDFLF^B^t1F1F0FD0gt:t9tctFt^tAtFtEtttBtcc:c:cFc3cccActc:ctmtFt:t:t::::F:::::o:At:c:ctc:
+^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:m:m^FFAFACFFFFFEBEFFFBEEEF3FFFFEFF3F^ADULT^0^111110^Dog
+^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:m:m^FFAFACFFFFFEBEFFFBEEEF3FFFFEFF3F^ADULT^0^111110^Dog
+
+c:c0ctctctctctctctctctctct:t1tt:c9:cF3^1F0cA:UcTc0c::1:1:A:ocFcc^t:tttct^tdtF:t:c:cCL:^:^0:^1tn:D:gFtct:t0tDaA1F::::t::
+^a91000ttttttttttttttttttttttttttttn:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c^FFACAd3FFFF^ADULT^0^111110^Dog
+
+small pupils
+c:c0ctctctctctctctctctctct:t1tt:c9:cFF^1F0cA:UcTc0c::1:1:A:ocFcc^t:tttct^tCtF:t:c:cCL:^:^0:^13t:D:gFtct:t0tDaA1n::::t::
+^a91000ttttttttttttttttttttttttttttn:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c^FFACACFFFF3^ADULT^0^111110^Dog
+
+tn:c::aF:c:F:cd^:DcLc^cF:c0EF1:cE^E^coc:tFt^tAtFcFF:tBE:CF:EBnc3FFFFFt0tttttttttttt:t:tct::tt:ctc:c:c3cCc:t:cFc^1:^tA1c::2EgF:F1A0UDT00t0^0t1^1tc0c^ccF^:9:
+^^^2^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:n:n^FFACACFFFFFEBEFFFBEEEF3FFFFEFF3F^ADULT^0^0^0^1111100^Dog
+
+small pupils + mutiple eyes
+c:c0ctctctctctctctctctctct:t1tt:c9:cF3^1F0cA:UcTc0c::1:1:A:ocFcc^t:tttct^tdtF:t:c:cCL:^:^0:^1tn:D:gFtct:t0tDaA1F::::t::
+^a91000ttttttttttttttttttttttttttttn:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c^FFACAd3FFFF^ADULT^0^111110^Dog
+
+tn:c::aF:c:F:cd^:DcLc^cF:c0EF1:cE^E^coc:tFt^tAtFcFF:tBE:dF:EBnc3FFFFFt0tttttttttttt:t:tct::tt:ctc:c:cFcCc:t:cFc^1:^tA1c::2EgF:31A2UDT00t0^0t1^1tc0c^ccF^:9:
+^^^2^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:n:n^FFACAdFFFFFEBEFFFBEEEF3FFFFEFFF3^ADULT^0^0^0^1111102^Dog
+
+default
+c:c0ctctctctctctctctctctct:t1tt:c9:cFF^1F0cA:UcTc0c::1:1:A:ocFcc^t:tttct^tCtF:t:c:cFL:^:^0::13t:D:gFtct:t0tDa^1n:A::t::
+^a91000ttttttttttttttttttttttttttttn:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c^FFAFACFFFF3^ADULT^0^111110^Dog
+
+tm:c::aF:c:F:3d^cDcLc^cF:c0EF1:cE^E^coc:tFt^tAtFcFF:tBE:CF:EBmc3FFFFFt0tttttttttttt:t:tct::tt:ctc:c:c:cFc:t:cFc^1:^tA1c::2EgF:F1A0UDT00t0^0t1^1tc0c^ccF^:9:
+^^^2^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:m:m^FFAFACFFFFFEBEFFFBEEEF3FFFFEFF3F^ADULT^0^0^0^1111100^Dog
+
+no mouth
+c:c0ctctctctctctctctctctct:t1tt:c9:cFC^1F0cAnUcTc0c::1:1:A:ocFcc^t:tttct^tFtF:t:c:cFL:^:^0::1:t:D:gFtct:t0tDa^13:A::t::
+^a91000ttttttttttttttttttttttttttttn:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c^FFAFAFCFFF3^ADULT^0^111110^Dog
+
+tn:c::aF:c:F:3d^cDcLc^cF:c0EF1:cE^E^coc:tFt^tAtCcFF:tBE:FF:EBnc3FFFFFt0tttttttttttt:t:tct::tt:ctc:c:c:cFc:t:cFc^1:^tA1c::2EgF:F1A0UDT00t0^0t1^1tc0c^ccF^:9:
+^^^2^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:n:n^FFAFAFCFFFFEBEFFFBEEEF3FFFFEFF3F^ADULT^0^0^0^1111100^Dog
+
+bug eye no mouth
+c:c0ctctctctctctctctctctct:c1tt:c9:cFF^1F0cA:U:Tc0c::1:1:A:ocFcc^t:tttctntbt3:t:c:cCL:^:^0:^1^ttD:gFtct:t0tDaA1F::::t::
+^a91000ttttttttttttttttttttttttttttn:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c^FFACAbF3FFF^ADULT^0^111110^Dog
+
+tc:c::aF:c:B:cd^:DcL:^cFF^c^cBB1c^:^coc:tFt^tAtFcF3:tAF:bF:FEncCBFFFFt0tttttttttttt:t:tct::tt:ctc:c:cFcCcnt:c:c:1:^tAB0::2FgF:F1A0UDT00t0^0t1^1tc0c^ccFF:91
+^^^2^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:n:n^FFACAbF3FFFFAFBFFEFBBBCFFFFFBFFF^ADULT^0^0^0^1111100^Dog
+
+Bee Wing Bug Eye
+tn:c::aF:c:F:cd^:DcLF^cC:c0EF1:cE^E^coc:tFt^tAtFcFF:tBE:dF:EBnc3FFFFFt0tttttttttttt:t:tct::tt:ctc:c:cFcCc:t:c^c^1:^tA1c::2EgF:31A0UDT00t0^0t1^1tc0ccccF^:9:
+^^^2^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:n:n^FFACAdFFFFCEBEFFFBEEEF3FFFFEFFF3^ADULT^0^0^0^1111100^Dog
+
+tn:c::aC:c:C:cd^:cccCC:cCC:0:cCCcc:c2og:tFt^tAtCcCC:tCC:0C:CCncCCCCCCt0tttttttttttt:t:tct::tt:ctc:c:cCcCcDtLc^c^1^^tA1:1:^C^C:C1A0UDT00t0^0t1^1tc0c:ccF::9^
+tn:c::aC:c:C:cd^:cccCC:cCC:0:cCCcc:c2og:tFt^tAtCcCC:tCC:1C:CCncCCCCCCt0tttttttttttt:t:tct::tt:ctc:c:cCcCcDtLc^c^1^^tA1:1:^C^C:C1A0UDT00t0^0t1^1tc0c:ccF::9^
+tn:c::aC:c:C:cd^:cccCC:cCC:0:cCCcc:c2og:tFt^tAtCcCC:tCC:2C:CCncCCCCCCt0tttttttttttt:t:tct::tt:ctc:c:cCcCcDtLc^c^1^^tA1:1:^C^C:C1A0UDT00t0^0t1^1tc0c:ccF::9^
+tn:c::aC:c:C:cd^:cccCC:cCC:0:cCCcc:c2og:tFt^tAtCcCC:tCC:zC:CCncCCCCCCt0tttttttttttt:t:tct::tt:ctc:c:cCcCcDtLc^c^1^^tA1:1:^C^C:C1A0UDT00t0^0t1^1tc0c:ccF::9^
+
+^^^2^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:n:n^FFACAbF3FFtFAFBFFEFBBBCFFFFFBFFF^ADULT^0^0^0^1111100^Dog
+
+tc:c::aF:c:B:cd^:DcL:^cFt^c^cBB1c^:^coc:tFt^tAtFcF3:tAF:bF:FEncCBFFFFF0tttttttttttt:t:tct::tt:ctc:c:cFcCcnt:c:c:1:^tAB0::2FgF:F1A0UDT00t0^0t1^1tc0ctccF^:91
+tc:c::aF:c:B:cd^:DcL:^cFx^c^cBB1c^:^coc:tFt^tAtFcF3:tAF:bF:FEncCBFFFFt0ttFttttttttt:t:tct::tt:ctc:c:cFcCcnt:c:c:1:^tAB0::2FgF:F1A0UDT00t0^0t1^1tc0ctccF^:91
+tc:c::aF:c:B:cd^:DcL:^cFy^c^cBB1c^:^coc:tFt^tAtFcF3:tAF:bF:FEncCBFFFFt0tttttttttttt:t:tct::tt:ctc:c:cFcCcnt:c:c:1:^tAB0::2FgF:F1A0FDT00t0^0t1^1tc0cUccF^:91
+tc:c::aF:c:B:cd^:DcL:^cFz^c^cBB1c^:^coc:tFt^tAtFcF3:tAF:bF:FEncCBFFFFt0ttttFttttttt:t:tct::tt:ctc:c:cFcCcnt:c:c:1:^tAB0::2FgF:F1A0UDT00t0^0t1^1tc0ctccF^:91
+
+FF AF AC FF FF FE BE FF FB EE EF 3F FF FE FF 3F
+FF AF AC FF FF CE BE FF FB EE EF 3F FF FE FF 3F
+FF AC Ad FF FF CE BE FF FB EE EF 3F FF FE FF F3
+FF AC Ad FF FF CE BE FF FB EE EF 3F FF FE FF F3
+FF AC Ab F3 FF FF AF BF FE FB BB CF FF FF BF FF
+
+FFACAbF3FFZFAFBFFEFBBBCFFFFFBFFF
+
+
+FFACAbF3FFCEAFBFFEFBBBCFFFFFBFFF
+
+FFACAbF3FFCFAFBFFEFBBBCFFFFFBFFF
+
+FFAFACFFFFCEBEFFFBEEEF3FFFFEFF3F
+FFACAdFFFFCEBEFFFBEEEF3FFFFEFFF3
+
+
+FF AF AC FFFF F EBEFFFBEEEF3FFFFEFF 3F
+FF AC AC FFFF F EBEFFFBEEEF3FFFFEFF 3F
+FF AC Ad FFFF F EBEFFFBEEEF3FFFFEFF F3
+
+FF AF AC F FFF 3
+FF AC AC F FFF 3
+FF AC Ad 3 FFF F
+FF AF AF C FFF 3
+FF AC Ab F 3FF F
+
+
+
+^^^2^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:n:n^FFFCFbFFFC0FAFBFFEFBBBCFFFFFBFFF^ADULT^0^0^0^1111100^Dog
+^^^2^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:m:m^FFAFACFFFFCEBEFFFBEEEF3FFFFEFF3F^ADULT^0^0^0^1111100^Dog
+
+10 heads
+=FFF
+
+horn/lash/wing
+^^^2^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:m:m^FF4FFa9BE679FF98cF7FF3F3FFCc41CFF^ADULT^0^0^0^1111100^Dog
+
+^^^2^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:m:m^FFAFACFFFFCEBEFFFBEEEF3FFFFEFF3F^ADULT^0^0^0^1111100^Dog
+
+[WINGS]
+Insect Wings
+^^^2^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:m:m^FFAFACFFFFCEAEFFFBEEEF3FFFFEFF3F^ADULT^0^183.8116^0^1111100^Barkus
+^^^2^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:m:m^FFAFACFFFFCEBEFFFBEEEF3FFFFEFF3F^ADULT^0^183.8116^0^1111100^Barkus
+^^^2^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:m:m^FFAFACFFFFCEDEFFFBEEEF3FFFFEFF3F^ADULT^0^183.8116^0^1111100^Barkus
+^^^2^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:m:m^FFAFACFFFFCEEEFFFBEEEF3FFFFEFF3F^ADULT^0^183.8116^0^1111100^Barkus
+^^^2^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:m:m^FFAFACFFFFCEFEFFFBEEEF3FFFFEFF3F^ADULT^0^183.8116^0^1111100^Barkus
+^^^2^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:m:m^FFAFACFFFFCE7EFFFBEEEF3FFFFEFF3F^ADULT^0^183.8116^0^1111100^Barkus
+^^^2^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:m:m^FFAFACFFFFCE6EFFFBEEEF3FFFFEFF3F^ADULT^0^183.8116^0^1111100^Barkus
+^^^2^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:m:m^FFAFACFFFFCE5EFFFBEEEF3FFFFEFF3F^ADULT^0^183.8116^0^1111100^Barkus
+:m:md:c9ccFFcC:c0EFL:cE^E8c.c116^^t111t1FFt^EAtFt0BctBFFFsFE0^t3tFaFtttttttttttt:tt:c:ccc:c:a:ctt:c:c:1F^tt:c3t^D:k:t^c:c2C80:BFrFuA:U:TA0c1:3E^c0c0c^F^t1:cF:::ct::F
+
+Feathered Wings
+^^^2^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:m:m^FFAFACFFFFCE8EFFFBEEEF3FFFFEFF3F^ADULT^0^183.8116^0^1111100^Barkus
+^^^2^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:m:m^FFAFACFFFFCE4EFFFBEEEF3FFFFEFF3F^ADULT^0^183.8116^0^1111100^Barkus
+:m:md:c9ccFFcC:c0EFL:cE^E8c.c116^^t111t1FFt^EAtFt0Bct4FFFsFE0^t3tFaFtttttttttttt:tt:c:ccc:c:a:ctt:c:c:1F^tt:c3t^D:k:t^c:c2C80:BFrFuA:U:TA0c1:3E^c0c0c^F^t1:cF:::ct::F
+
+Bat Wings
+^^^2^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:m:m^FFAFACFFFFCE3EFFFBEEEF3FFFFEFF3F^ADULT^0^183.8116^0^1111100^Barkus
+^^^2^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:m:m^FFAFACFFFFCE2EFFFBEEEF3FFFFEFF3F^ADULT^0^183.8116^0^1111100^Barkus
+^^^2^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:m:m^FFAFACFFFFCE1EFFFBEEEF3FFFFEFF3F^ADULT^0^183.8116^0^1111100^Barkus
+:m:md:c9ccFFcC:c0EFL:cE^E8c.c116^^t111t1FFt^EAtFt0Bct3FFFsFE0^t3tFaFtttttttttttt:tt:c:ccc:c:a:ctt:c:c:1F^tt:c3t^D:k:t^c:c2C80:BFrFuA:U:TA0c1:3E^c0c0c^F^t1:cF:::ct::F
+
+Dragon Wings
+^^^2^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:m:m^FFAFACFFFFCE0EFFFBEEEF3FFFFEFF3F^ADULT^0^183.8116^0^1111100^Barkus
+:m:md:c9ccFFcC:c0EFL:cE^E8c.c116^^t111t1FFt^EAtFt0Bct0FFFsFE0^t3tFaFtttttttttttt:tt:c:ccc:c:a:ctt:c:c:1F^tt:c3t^D:k:t^c:c2C80:BFrFuA:U:TA0c1:3E^c0c0c^F^t1:cF:::ct::F
+
+Angel Wings
+^^^2^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:m:m^FFAFACFFFFCECEFFFBEEEF3FFFFEFF3F^ADULT^0^183.8116^0^1111100^Barkus
+:m:md:c9ccFFcC:c0EFL:cE^E8c.c116^^t111t1FFt^EAtFt0BctCFFFsFE0^t3tFaFtttttttttttt:tt:c:ccc:c:a:ctt:c:c:1F^tt:c3t^D:k:t^c:c2C80:BFrFuA:U:TA0c1:3E^c0c0c^F^t1:cF:::ct::F

@@ -1,0 +1,85 @@
+[ =========[ DEFAULT-DOG ]========= ]
+[ ======[ ADULT ]====== ]
+aE:m:::9:cccc::3cEc^:Bc^0^BE:^c1c1100:tEtmc:tAFAtFtFtFFcFFEFFUFE33FFtttttttttttttt::htt:c:c:c:c:Ttc1D::FcF1:^:^D^Lc:c:c^A:Ld::cUtTc0F0F0E1F^FcA^c0Ftct^t:tC0Ft:tc
+
+[ ======[ ADULT-BODY_SIZE_185% ]====== ]
+:c:c:F:9ccccc::F^EF0:BFE:c:F0^0^0:t1113:tcF^tmtFtAtAtFc:^TEFFDdccEAEFttatFtFttttFtL:F:c:c:c0F:ctct::cE1:^:t:t30:F:U3F^^FLc^B^:tFtcttt0cFmAcUFTFDchC^E1:tt1Fc:tc=0:ttF
+
+[ ======[ ADULT-BODY_SIZE_705% ]====== ]
+:ccchFc:Fc:aFFFFFFFFFFFFFF^FcFcF^c11dccFtct^tctctct0ttcF:tFc^EDtEFFttt:TA^U:::0:0t0tt01:1FcF:AFFFF9F:FF::^^DFLm^C^L^F^EBE1F0B0ctcT:3m0::F:AFA:FFF:F:cc::=:FEtFtFFFttt:tt::t3t1tE3EFcFctcttUF:Fc
+
+[ =========[ DEFAULT-WORM ]========= ]
+[ ======[ NONE-NaN-WORM ]====== ]
+:c:mh::9c:cF^FcFBNEN0cEE:^:ac^NaN:t1113:tmF^tFtCt0FctEcFbTFB0DAF:Fatttttttttttttht::c:c:c:c:F:ctct:Ncc1A^:t:t:0c::U:t^c^cEAd^:EBFFL^:OcEcNcN:NFac0F^c1^tt1FcF:Ftct:tF
+
+[ ======[ NONE-WORM ]====== ]
+:caF:::c:cFF:Fc:cN^Nc^B^E^0cEE:1:0c^DEF:tmt^c:tCFFtFtEcUFcLBcTbFFF0F:tttttttttttt3t:t:htt:c:c:ctc:c0c9tA::c:1:^c::m:A^c^:Ecdh:c0t0F1B1F1^1OcEA0tc0Ftct^t:FFt:tF
+
+[ ======[ PUPPY-WORM ]====== ]
+:aF:h:c::cF:Bc:c^^UcPB^E^0cEE:1:1c00^D:ttmtc:ttFtFtFtEaFc:uctbcFm0:F9tFtttFtFtPtPtYt0htt0c1c3c^c:cecfct:^cF1C^tc::c::^c^BEldF:F:F:t:t:t:t:ttttt1c0FAc:^:0:F1ccAF
+
+[ ======[ CHILD-WORM ]====== ]
+:aF:h:c::cF:Bc:c^^HcLB^E^0cEE:1:1c00^D:ttmtc:ttFtFtFtEAFc:Uc3bcFm0:F9tFtttFtFtCtItDt0htt0c1c1c^c:cEcFct:^cF1C^tc::c::^c^BELdF:F:F:t:t:t:t:ttttt1c0FAc:^:0:FTccAF
+
+[ ======[ TEEN-WORM ]====== ]
+:caF:::c:cFF:Fc:cT^Ec^B^E^0cEE:1:0c^DEF:tmt^c:tCFFtFtEcUFcLBcTbFFF0F:tttttttttttt3t:t:htt:c:c:ctc:c0c9tA::c:1:^c::m:A^c^:Ecdh:c0t0F1B1F1^1EcNA0tc0Ftct^t:FFt:tF
+
+[ ======[ YOUNG_ADULT-WORM ]====== ]
+c:cmh:cc:cF^BcFB^EO0cEE:D:Lc^0^0:t^113:ttFt^tFtC0FcFtcFbLF00D^:tUattct:t::9tctFhttFcYcUcGc:EUc_tc::c01t^1:1:m:1c::A:FNc^EE:dF:BtTtFtF:F:t:t:t:t:c0FtcT^:FAFctAtFctctA^
+
+[ ======[ ADULT-WORM ]====== ]
+:aF:h:c::cF:Bc:c^^DcLB^E^0cEE:1:1c00^D:ttmtc:ttFtFtFtEAFc:Uc3bcFm0:F9tFtttFtFtAtUtTt0htt0c1c1c^c:cEcFct:^cF1C^tc::c::^c^BELdF:F:F:t:t:t:t:ttttt1c0FAc:^:0:FTccAF
+
+[ ======[ ANCIENT-WORM ]====== ]
+F:c:c:c9::Fc:cF^^cNBIEN0cEE:^:^c1111:t^Dtc:ttFtCtFtFEFc:AcFbUF30cFmt:attc:FtFtFtAtChttTc0c0c0c:Lcc010:tcm1^^F:tc::::E^c^FEBdA:FtB:F:t:t:t:t:ttttc0FhcA^:E:FTt^ctct
+
+[ ======[ ANCIENT-NaN-WORM ]====== ]
+:cc:hc:c:^FcBBFE^0cEE:N:^caN^N:t^Nac3t1Ftmt^tF1FcFtcFbAFc:1B:tDattUtTtctmt:t9httFcFcF:Ac:^EcT:I::ca1N^tAN:1:1:^c::E:CNc^FEEd::FtFt0tFtF:F:t:t:t:c0Ftct^NcLF:tCtcctt0ccA0
+
+[ =========[ SHORT-CODES ]========= ]
+[ ======[ ALL-ZEROS ]====== ]
+[ ===[ NULL ]=== ]
+^tEbON^t^N^j0
+
+[ ======[ ALL-ONES ]====== ]
+[ ===[ NODE ]=== ]
+OF17FFFFF^FFF7^^NFEF^1NF
+
+[ =========[ MULTI-PARTS ]========= ]
+[ ======[ TEN-HEADS ]====== ]
+:aF:m:c:::FF^ccc::FcA:=F0F0cF:c:1c:1100tt^Fc:ttCtAtFtFFEc:EBHEcFc0:t9tctFtttFt33^tDtLctt^c^c^c0cmcAc1^t:FTF1:^EFU:cT:c^:F0N1E:Et3tF:t:t:t:ttttt:c0Fdh:^E^:FtccFB
+
+[ ======[ TEN-TAILS ]====== ]
+:aE:m:c9:cFFF3cFc:F:A^F:0F0cF:c:1c1c10cttmtc:ttCtctFtFcEc:EBTEcEcEttttttFtttF=33^t0tLFtt^c^c^:0tdc0c^1t:^cF1A^t:UFcT:c^:F0N1c:D:::F:t:t:tctAttF::0C^h::E^:FFcTFB
+
+[ ======[ TEN-WINGS ]====== ]
+aC:::::9:c3cc:F:F:cF0FD:L:cFFc^c^^131cc0tc0FAcAdtctct^BcFEFEEEEBcE:tcttttttttttFtFt:c:t:tctctc::W11F0Ftmtc1ttt^^:::^c:^^T:N0cFF=AFUtT:0:0F^EcFC0:tFc^FmtFt3:F1:c:
+
+[ =========[ ALL-ZEROS-ONES ]========= ]
+[ ======[ ZEROS ]====== ]
+[ ===[ 0 ]=== ]
+ctctccctmT^0:0:0:0:0:000:0c:ctcccUBt:tCtctctctctFtBt^^3^F^F^F0E0B^t^FmF:F^FDFLt^:ttbtttBtFtBt:t:tFtFc:cFc^ctc:ctctct:tet::tA::::::Acc::::c:c:h
+
+[ ===[ ZERO ]=== ]
+ctctctctctctctctctccctmo^^:t:^:^:e:tctct:::tct:t:t:t:mc::0:0eZ^rtt^tcttttfcA0UcTc:^0^0^0000ttt::ttttc:3t:t::c0c:h:cc^c::^:DtLt::
+
+[ ======[ ONES ]====== ]
+[ ===[ 1 ]=== ]
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFjFFF^FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFEFFFFFFFFFFFFFFFFFFFFF7FFF=CFF=FF=FF=FF=FF=FF=FF=FF=FF=FF=FF=FF=FF=FF=:h=FF=FF=FF=FF=FF=FF=FF=FF=FF=FF=FFFFF=FFFFF=FFFFF^FFFFFFFFFFFEBFFFFBFEEF1FFFFEFF3F^ADULT^1^1^1^1F11111^1FFFF00FFFFFFFFFFjFFFFFFF^^F3FFFFFFFFF^FFFFFFFFFFFFFFFFFFFFFFFF3FFFFFFF
+
+[ ===[ 11 ]=== ]
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF1FFF3FFFFFFFFFFFFFFFFFFjFFF^FFFF7FFFFFFFFFFFFFFFF1^7FFF=C=1=7=7=F=7=7=7=7=7=7=7=7=7:h=7=7=7=7=7=7=F=7=F=7F7=7=1FFF=1FFF^FFFFFFFFFFFEBFFFFBEEEF3FFFFEFFFF^ADULT^1^1^1^11^F11FF11=FFF00FFFFFFFFFFjFFFF7FF^^F3F7FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF7FFFFF7
+
+[ ===[ ONE ]=== ]
+FFFFFFFFFFFFFFFF^FFFFFFFFFFFFFFFFFFFF^FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF1F=FFF=FF=FF=FF=FF=FF=FF=FF=FF=FF=FF=FF=FF=FFF=FFFFF=FF=FF=FF=FF=FF=FF=FF=FF=FF=FF=FF=FF=FFFFF=FFFFF^FFFFFFFFFFFFFFFFFFFFFF1FFFFFFF3F^ADULT^1^1^1^1F11111^OneFFFFFFFFFFFFFFFFFFFFFFFF^^F3FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+
+[ ===[ ELEVEN ]=== ]
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF^FFFFFFFFFFFFFFFFFFFF^FFFFF7FFFFFFFFFFFFFFFFeF=7=7lF=7=7F7=7=7=7=7=7=7=7=7=F7=7=7=7=7=7=7=7=7=7=7F7=F=1FFF=1FFF^FFFFFFFFFFFFFFFFFFFFFFFFFFFFFF3F^AnULT^1^1^1^1111111^EFFveFFFFFFFFFFFFFFFFFFFFF=FFF^^F3FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF==1FFD
+
+[ =========[ BETA-HEADS ]========= ]
+[ ======[ BETA-A ]====== ]
+:aF:c:c::cF:Fc::FFA:U^TA0FccE:1:1c100^:ttmtc:ttFtDt2tFcFc:ABABcFm0:F9tFtttBtFt^tDtLt^htt^c^c1c3c:cBcETt:^cA1A^t:c:c::0^0Fc_dB:C:F:t:t:t:t:ttttt1cc77c0^:^8b0ccFB
+
+
+[ ======[ BETA-B ]====== ]
+caF:8:c::cF:Fc::FFA:U^TA0FccE:1:1c100^:ttmtc:ttFtCt2tFTFcBABBBcFm0:F9tFtttBtFt^3DtLt^hct^c1c1c0c:c:cEtt:^cA:A^t:c:c::0^0Fc_dB:C:F:t:t:t:t:ttttt1cc33c0^^^:btccFB

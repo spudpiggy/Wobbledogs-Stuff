@@ -1,0 +1,208 @@
+Feral:
+FF AFACF CF F FEB EF FF CCC EF 3 FFFF EFF 3F
+
+Goose:
+FF 3CFC3 CC D bFF F3 FF E33 0b F3 FFFF FFF E3
+
+Double Curl:
+FF AFACF C3 F FEB EF FF BCC EF 3 FFFF EFF 3F
+
+Vanilla:
+FF 8C3bC F0 3 0bE 3B FF bCF 33 F CFCF FFF 3FF
+
+Picklesbeth:
+FFCF0 f F3FF2 d FFFCC F33FC FFB3F F3FF
+
+Rocko:
+FFCCE   FFDF3 b F0FFF FFF33 FCFFF FD3FF F
+
+Ln'eta
+FDCC3 f F3CC2 d FFFCF F3BFC FFFFF F7FF
+
+Default:
+FFAFACFFFFFEBEFFFBEEEF3FFFFEFF3F
+
+Default:
+FFAFACFFFFFEBEFFFBEEEF3FFFFEFF3F
+
+
+IFS(A2="a","0",A2="b","00",A2="c","000",A2="d","0000",A2="e","00000",A2="f","000000",A2="g","0000000",A2="h","00000000",A2="i","000000000",A2="j","0000000000",A2="k","00000000000",A2="l","000000000000",A2="m","0000000000000",A2="n","00000000000000",A2="o","000000000000000",A2="p","0000000000000000",A2="q","00000000000000000",A2="r","000000000000000000",A2="s","0000000000000000000",A2="t","00000000000000000000",LEN(A2)=1,BASE(DECIMAL(A2,16),2),LEN(A2)=5,BASE(DECIMAL(A2,16),2,20),ISBLANK(A2),"")
+
+
+IFS(FIND(REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]", ,1),A1)=1,REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]", ,1),FIND(REGEX(A1,"[a-t]", ,1),A1,1)=1,REGEX(A1,"[a-t]", ,1))
+
+IFNA(FIND(REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]", ,1),A1),FIND(REGEX(A1,"[a-t]", ,1),A1,1))
+
+IFNA(FIND(REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]", ,1),A1),FIND(REGEX(A1,"[a-t]", ,1),A1,1))
+
+IF(FIND(REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]", ,1),A1)=1,REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]", ,1),IF(FIND(REGEX(A1,"[a-t]", ,1),A1,1)=1,REGEX(A1,"[a-t]", ,1)))
+
+REGEX(A1,"[a-t]", ,1)
+
+IFS(
+    FIND(REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]",,1),A1,1)=1,
+        REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]",,1),
+    FIND(REGEX(A1,"[a-t]",,1),A1,1)=1,
+        REGEX(A1,"[a-t]",,1)
+)
+
+IFS(ISNA(REGEX(A1,"[A-F0-9]")),REGEX(A1,"[a-t]", ,1),REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]",,1),FIND(REGEX(A1,"[a-t]",,1),A1,1)=1,REGEX(A1,"[a-t]",,1))
+
+=IFS
+FIND(REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]",,2),A1,2)=1
+REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]",,1)
+
+FIND(REGEX(A1,"[a-t]",,2),A1,1)>=2
+REGEX(A1,"[a-t]",,2)
+
+IFS(FIND(REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]",,2),A1,2)<=6,REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]", ,2),FIND(REGEX(A1,"[a-t]",,2),A1,1)<=2,REGEX(A1,"[a-t]",,2))
+
+IF(FIND(REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]", ,1)=1,A1,1),REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]", ,1),REGEX(A1,"[a-t]", ,1))
+
+IF(IFNA(FIND(REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]", ,1),A1),FIND(REGEX(A1,"[a-t]", ,1),A1,1)),REGEX(A1,"[a-t]", ,1),REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]", ,1))
+
+FIND(REGEX(A1,"[a-t]", ,1)=1,A1,1)
+
+IF(FIND(REGEX(A1,"[A-F0-9a-t]"),A1)=1,FIND(REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]",,1),A1,1)=1,REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]",,1),FIND(REGEX(A1,"[a-t]",,1),A1,1)=1,REGEX(A1,"[a-t]",,1))
+
+FIND(REGEX(A1,"[a-t]", ,1),A1,1)
+
+tttttt
+
+IFS(FINDB(REGEX(A1,"[A-F0-9a-t]", ,2),A1),IFNA(IF(FINDB(REGEX(A1,"[a-t]", ,2),A1,2)=2,REGEX(A1,"[a-t]", ,2)),REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]", ,2)),FINDB(REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]", ,2),A1,2)=2,REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]",,2),FINDB(REGEX(A1,"[a-t]", ,2),A1,2)=2,REGEX(A1,"[a-t]", ,2),REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]", ,2))
+
+
+
+IFS(
+FINDB(REGEX(A1,"[A-F0-9]", ,1),A1,1),
+REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]",,1),IF(FINDB(REGEX(A1,"[a-t]", ,1),A1,1),REGEX(A1,"[a-t]", ,1)),REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]", ,1))
+
+IF(FINDB(REGEX(A1,"[A-F0-9a-t]", ,1),A1,1),IFNA(IF(FINDB(REGEX(A1,"[A-F0-9]", ,1),A1,1),REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]",,1)),REGEX(A1,"[a-t]", ,1)),IFNA(IF(FINDB(REGEX(A1,"[a-t]", ,1),A1,1),REGEX(A1,"[a-t]", ,1)),REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]", ,1)))
+
+IF(FINDB(REGEX(A1,"[A-F0-9a-t]", ,1),A1,1),IF(FINDB(REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]", ,1),A1,1),REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]",,1)) ,IF(FINDB(REGEX(A1,"[a-t]", ,1),A1,1),REGEX(A1,"[a-t]", ,1)))
+
+IFS(IFNA(FINDB(REGEX(A1,"[a-t]", ,1),A1,1)=1),REGEX(A1,"[a-t]", ,1),FINDB(REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]", ,1),A1,1),REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]",,1))
+
+IFS(FINDB(REGEX(A1,"[a-t]", ,2),A1,2)=2,REGEX(A1,"[a-t]", ,2),FINDB(REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]", ,2),A1,2),REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]",,2))
+
+
+IFNA(IF(FINDB(REGEX(A1,"[A-F0-9a-t]", ,2),A1,2)
+,IF(FINDB(REGEX(A1,"[a-t]", , ),A1,2),REGEX(A1,"[a-t]", ,2)),REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]", ,2)),IF(FINDB(REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]", , ),A1,2),REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]",,2)),"Please check code")
+
+
+=IFNA(IF(FIND(REGEX(A1,"[A-F0-9a-t]",,1),A1,1),IFNA(IF(FIND(REGEX(A1,"[a-t]",,1),A1,1),REGEX(A1,"[a-t]",,1)),REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]", ,1)),IF(FIND(REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]",,1),A1,1),REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]",,1))),"Please check code")
+
+=IFNA(IF(FIND(REGEX(A1,"[A-F0-9a-t]",,2),A1,2),IFNA(IF(FIND(REGEX(A1,"[a-t]",,2),A1,2),REGEX(A1,"[a-t]",,2)),REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]", ,2)),IF(FIND(REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]",,2),A1,2),REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]",,2))),"Please check code")
+
+IFNA(IF(FIND(REGEX(A1,"[A-F0-9a-t]",,1),A1,1),IFNA(IF(FIND(REGEX(A1,"[a-t]",,1),A1,1),REGEX(A1,"[a-t]",,1)),REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]", ,1)),IF(FIND(REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]",,1),A1,1),REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]",,1))),no)
+
+IFNA(IF(FIND(REGEX(A1,"[A-F0-9a-t]",,1),A1,1),IF(FIND(REGEX(A1,"[a-t]",,1),A1,1),REGEX(A1,"[a-t]",,1)),IF(FIND(REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]",,1),A1,1),REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]",,1))),no)
+
+IFNA(
+        IF(FIND(REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]", ,1),A1,1),REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]",,1))
+        IF(FIND(REGEX(A1,"[a-t]", ,1),A1,1),REGEX(A1,"[a-t]", ,1)))
+)
+
+IF(FIND(REGEX(A1,"[A-F0-9a-t]"),A1,1),IFNA(IF(FIND(REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]", ,1),A1,1),REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]",,1)),IF(FIND(REGEX(A1,"[a-t]", ,1),A1,1))))
+
+IF(FIND(REGEX(A1,"[A-F0-9a-t]"),A1,1),IFS(FIND(REGEX(A1,"[a-t]", ,1),A1,1),REGEX(A1,"[a-t]", ,1),FIND(REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]", ,1),A1,1),REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]",,1)), )
+
+IF(FIND(REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]", ,1),A1,1),REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]",,1))
+
+IFS(FIND(REGEX(A1,"[A-F0-9a-t]"),A1),1,FIND(REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]",,1),A1,1)=1,REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]",,1),FIND(REGEX(A1,"[a-t]",,1),A1,1)=1,REGEX(A1,"[a-t]",,1))
+
+FIND(REGEX(A1,"[A-F0-9a-t]"),A1)
+FIND(REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]",,1),A1,1)=1
+REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]",,1)
+FIND(REGEX(A1,"[a-t]",,1),A1,1)=1
+REGEX(A1,"[a-t]",,1)
+
+
+IFS(FIND(REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]",,1),A1,1)=1,REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]",,1),FIND(REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]",,1),A1,1)=1,REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]",,1),FIND(REGEX(A1,"[a-t]",,1),A1,1)=1,REGEX(A1,"[a-t]",,1))
+
+
+FFAFA
+CFFFF
+FEBEF
+FFBEE
+EF3FF
+FFEFF
+3F
+
+h
+AFACF
+FFFFE
+BEFFF
+BEEEF
+b
+FFFFF
+BFFF
+
+REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]", ,2)
+
+FINDB(REGEX(A1,"[a-t]", ,1),A1,1)
+
+FINDB(REGEX(A1,"[a-t]", ,2),A1,2)
+
+FINDB(REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]",,1))
+
+IF(FINDB(REGEX(A1,"[A-F0-9a-t]", ,1),A1,1),IF(IFNA(IF(FINDB(REGEX(A1,"[a-t]", ,1),A1,1),REGEX(A1,"[a-t]", ,1)),REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]",,1)),IF(FINDB(REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]", ,1),A1,1),REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]",,1))))
+
+
+
+IF(FINDB(REGEX(A1,"[A-F0-9a-t]", ,1),A1,1),IF(FINDB(REGEX(A1,"[a-t]", ,1),A1,1),REGEX(A1,"[a-t]", ,1)),IF(FINDB(REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]", ,1),A1,1),REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]",,1)))
+
+
+
+REGEX(A1,"[A-F0-9a-t]", ,1)
+
+IFS(REGEX(A1,"[A-F0-9a-t]", ,1),1,REGEX(A1,"[a-t]", ,1),REGEX(A1,"[a-t]", ,1),REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]",,1),REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]",,1))
+
+REGEX(A1,"[A-F0-9a-t]", ,1)
+
+=IFS(AND(FINDB(REGEX(A1,"[A-F0-9a-t]", ,2),A1,2),FINDB(REGEX(A1,"[a-t]", ,1),A1,1),FINDB(REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]", ,1),A1,1)),REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]",,1))
+
+IFS(AND(FINDB(REGEX(A1,"[A-F0-9a-t]",,1),A1,1),FINDB(REGEX(A1,"[a-t]",,1),A1,1)),REGEX(A1,"[a-t]",,1),A1,1)
+
+
+IFS(FINDB(REGEX(A1,"[A-F0-9a-t]", ,3),A1),IFNA(IF(FINDB(REGEX(A1,"[a-t]", ,3),A1,3)=3,REGEX(A1,"[a-t]", ,3)),REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]", ,3)),FINDB(REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]", ,3),A1,3)>=6,REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]",,3),FINDB(REGEX(A1,"[a-t]", ,3),A1,3)=3,REGEX(A1,"[a-t]", ,3),REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]", ,3))
+
+
+
+IFS(FINDB(REGEX(A1,"[A-F0-9a-t]", ,1),A1),IFNA(IF(FINDB(REGEX(A1,"[a-t]", ,1),A1,1)=1,REGEX(A1,"[a-t]", ,1)),REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]", ,1)),FINDB(REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]", ,1),A1,1)=1,REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]",,1),FINDB(REGEX(A1,"[a-t]", ,1),A1,1)=1,REGEX(A1,"[a-t]", ,1),REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]", ,1))
+
+
+IFS(FINDB(REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]", ,2),A1,2)>=6,REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]",,2),FINDB(REGEX(A1,"[a-t]", ,2),A1,2)=2,REGEX(A1,"[a-t]", ,2),REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]", ,2))
+
+IFS(FINDB(REGEX(A1,"[A-F0-9a-t]", ,1),A1),IFNA(IF(FINDB(REGEX(A1,"[a-t]", ,1),A1,1)=1,REGEX(A1,"[a-t]", ,1)),REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]", ,1)),FINDB(REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]", ,1),A1,1)=1,REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]",,1),FINDB(REGEX(A1,"[a-t]", ,1),A1,1)=1,REGEX(A1,"[a-t]", ,1),REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]", ,1))
+
+
+IFS(FINDB(REGEX(A1,"[A-F0-9a-t]", ,2),A1),IFNA(IF(FINDB(REGEX(A1,"[a-t]", ,2),A1,2)=2,REGEX(A1,"[a-t]", ,2)),REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]", ,2)),FINDB(REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]", ,2),A1,2)>=6,REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]",,2),FINDB(REGEX(A1,"[a-t]", ,2),A1,2)=2,REGEX(A1,"[a-t]", ,2),REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]", ,2))
+
+
+IFS(FINDB(REGEX(A1,"[A-F0-9a-t]", ,1),A1),IFNA(IF(FINDB(REGEX(A1,"[a-t]", ,1),A1,1)=1,REGEX(A1,"[a-t]", ,1)),REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]", ,1)),FINDB(REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]", ,1),A1,1)=1,REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]",,1),FINDB(REGEX(A1,"[a-t]", ,1),A1,1)=1,REGEX(A1,"[a-t]", ,1),REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]", ,1))
+
+IFS(FINDB(REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]", ,2),A1,2)>=6,REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]",,2),FINDB(REGEX(A1,"[a-t]", ,2),A1,2)=2,REGEX(A1,"[a-t]", ,2),REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]", ,2))
+
+
+IFS(FIND(REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]", ,1),A1)=1,REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]", ,1),FIND(REGEX(A1,"[a-t]", ,1),A1,1)=1,REGEX(A1,"[a-t]", ,1))
+
+IFS(FIND(REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]"),A1)=1,REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]", ,5),FIND(REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]"),A1)=2,REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]", ,2),REGEX(A1,"[a-t]", ,2))
+
+IFS(FIND(REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]"),A1)=1,REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]", ,5),FIND(REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]"),A1)=2,REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]", ,2))
+
+FINDB(REGEX(A1,"[a-t]"),A1)
+FIND(REGEX(A1,"[a-t]"),A1)
+
+FINDB(REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]"),A1)
+FIND(REGEX(A1,"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]"),A1)
+
+FIND(REGEX(A1,"[A-F0-9]"),A1)
+
+IFS(FIND(REGEX(A1,"[a-t]"),A1,1)=1,REGEX(A1,"[a-t]"))
+
+REGEX(A1,"[a-t]", ,1)
+REGEX(A1,"[a-t]", ,1)
+
+"[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9]"
+

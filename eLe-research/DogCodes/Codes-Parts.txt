@@ -1,0 +1,445 @@
+[ =========[ DEFAULT-DOG ]========= ]
+GENE VERSION 3
+ADULT
+^^^3^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:h:c:c:c:c:c:c:c:c:c:c:c:c:m:m^FFAFACFFFFFEBEFFFBEEEF3FFFFEFF3F^ADULT^0^0^0^1111100^DEFAULT
+aE:m:::9:cccc::3cEc^:Bc^0^BE:^c1c1100:tEtmc:tAFAtFtFtFFcFFEFFUFE33FFtttttttttttttt::htt:c:c:c:c:Ttc1D::FcF1:^:^D^Lc:c:c^A:Ld::cUtTc0F0F0E1F^FcA^c0Ftct^t:tC0Ft:tc
+
+[ =========[ EYES ]========= ]
+[ ======[ LIDDED ]====== ]
+GENE VERSION 3
+ADULT
+^^^3^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:h:c:c:c:c:c:c:c:c:c:c:c:c:m:m^FFAF2CFFFFFEBEFFFBEEEF3FFFFEFF3F^ADULT^0^0^0^1111100^LIDDED
+:aE:F:c::cFccc::FcEc^:Bc000BE:1c1c100^:ttmtc:ttFtFtFtFDFc:DEDFc3m0:F9tFtttFt3t^tDtLt^htt^c^c1c0c:cLcI:t:^cA12^tUATc:::c^F:EdE:3:F:t:t:t:t:ttttt1c0FFcE^:^:CFccFF
+
+[ ======[ OBLONG ]====== ]
+GENE VERSION 3
+ADULT
+^^^3^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:h:c:c:c:c:c:c:c:c:c:c:c:c:m:m^FFAF8CFFFFFEBEFFFBEEEF3FFFFEFF3F^ADULT^0^0^0^1111100^OBLONG
+:aE:F:c::cFccc::FcEc^:Bc000BE:1c1c100^:ttmtc:ttFtFtFtFLFc:OEGFcFm0:F9tF3ttFt3t^tDtLt^htt^c^c1c0c:cOcB:t:^cA18^tUATc:::c^F:NdE:3:F:t:t:t:t:ttttt1c0FFcE^:^:CtccFF
+
+[ ======[ CONCERNED ]====== ]
+GENE VERSION 3
+ADULT
+^^^3^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:h:c:c:c:c:c:c:c:c:c:c:c:c:m:m^FFACACFFFFFEBEFFFBEEEF3FFFFEFF3F^ADULT^0^0^0^1111100^CONCERNED
+:c:m::c9ccc::FcEc^:BcL0^BE:^c^c1111:t^COc:t^FAtAtFtNFcc:EEFFFE0E:3tatt3ttt:ttttttthtt:c:c:c:c:Ntct01::cF1c^:t:m^3DD:t:c^C:CdR:EFtAcUFTF0:0F0E^Fcc0F0ct^t:tCtF:FtcFF
+
+[ ======[ SPIDER ]====== ]
+GENE VERSION 3
+ADULT
+^^^3^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:h:c:c:c:c:c:c:c:c:c:c:c:c:m:m^FFACAdFFFFFEBEFFFBEEEF3FFFFEFFF3^ADULT^0^0^0^1111100^SPIDER
+:aE:F:c::cFcEc::3cEc^:Bc000BE:1c1c100^:ttmtc:ttFtFtFtFIFc:DERFcFm0:F3tFtttFtFt^tDtLt^htt^c^c1c0c:cScP:t:^cc1A^tUATc:::c^F:EdE:3:F:t:t:t:t:ttttt1c0FFcA^:^:d9ccCF
+
+[ ======[ HEX ]====== ]
+GENE VERSION 3
+ADULT
+^^^3^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:h:c:c:c:c:c:c:c:c:c:c:c:c:m:m^FFAFACFFFFFEBEFF33EEEF3FFFFEFF3F^ADULT^0^0^0^1111100^HEX
+:c:maE:9:c:cEFccc::DcEc^:B:^0^3E:1c0c^HEt:t^tAc:tFFFtFc:FXF3ccEEF3FF0t^tttttttttttt:t:3:htt:c:ctctc0c:cFt3::c:1^^^:::Fc^F:cd::F0t1F1F1A1UcTm0t0tc0Ftct^A:LCtF
+
+[ ======[ DOUBLE ]====== ]
+GENE VERSION 3
+ADULT
+^^^3^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:h:c:c:c:c:c:c:c:c:c:c:c:c:m:m^FFAF8dFFFFFEBEFFFBEEEF3FFFFEFFF3^ADULT^0^0^0^1111100^DOUBLE
+:aE:F:c::cFcEc::3cEc^:Bc000BE:1c1c100^:ttmtc:ttFtFtFtFUFc:BEEFcFm0:F9tFtttFtFt^t3tLt^htt^c^c1c0c:cDcO:t:^cc18^tUATc:::c^F:LdE:3:F:t:t:t:t:ttttt1c0FFcA^:^:dDccFF
+
+[ ======[ KEYHOLE ]====== ]
+GENE VERSION 3
+ADULT
+^^^3^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:h:c:c:c:c:c:c:c:c:c:c:c:c:m:m^FFAFACFFFFFEBEFbFEFBBBCFFFFFBFFF^ADULT^0^0^0^1111100^KEYHOLE
+aE:m:::9:cccc::FcEc^:B:^FccE:^:1c1100:tEtmc:tAFAtFtF0YbcFFBFBOFB0CF:ttttttttttttttt3htt:c:c:c:c:Etc1K::FcF1:^:^D^Lctc^^:HcLd::cUtTc0B0F0F1F^FcA^c0Ftct^t:tC:Ft:Fc
+
+[ ======[ LASHES ]====== ]
+GENE VERSION 3
+ADULT
+^^^3^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:h:c:c:c:c:c:c:c:c:c:c:c:c:m:m^FFAFACFFFFFEBEFCFBEEEF3FFFFEFF3F^ADULT^0^0^0^1111100^LASHES
+:aE:F:c::cFccc::FcEc^:0c0:0BE:1c1c100^:ttmtc:ttFtFtFtFSCc:HESFcFm0:F9tFtttFt3t3tDtLt^htt^c^c1c0c:cLcA:t:^cA1A^tUATcB::c^F:EdE:3:F:t:t:t:t:ttttt1c0FFcE^:^:C^ccFF
+
+[ ======[ PUCK ]====== ]
+GENE VERSION 3
+ADULT
+^^^3^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:h:c:c:c:c:c:c:c:c:c:c:c:c:m:m^FFAF8CFFFFFEBCFFFBEEEF3FFFFEFF3F^ADULT^0^0^0^1111100^PUCK
+c:caC:c:::FFEccc::AcEcB:0c000BE:1c1c0^PU:tt^tc:ttFtFtFc:CFKFcEmF3F90ctFtFttt^tDtLt^t^t^htt1c1c1ccc:cmctFA:8cF1t^U^F:F:c^::Ed3:F:3:t:t:t:ttttt0::c0FFc:^:^TC:Ft
+
+[ ======[ SLIM ]====== ]
+GENE VERSION 3
+ADULT
+^^^3^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:h:c:c:c:c:c:c:c:c:c:c:c:c:m:m^FFAFACFFFFFEB0FFFBEEEF3FFFFEFF3F^ADULT^0^0^0^1111100^SLIM
+c:cB0:c:::FFEccc::AcEc^:0c000BE:1c1c0^SL:tt^tc:ttFtFtFc:IFMFcEmF:F90ct3tFttt^tDtLt^t^t^htt1c1c1ccc:cmctFA:AcF1t^UaF:F:c^::Ed3:F:3:t:t:t:ttttt0::c0FFc:^:^TCFFt
+
+[ ======[ SPIRAL ]====== ]
+GENE VERSION 3
+ADULT
+^^^3^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:h:c:c:c:c:c:c:c:c:c:c:c:c:m:m^FFAFACFFFFFEBEFF3BEEEF3FFFFEFF3F^ADULT^0^0^0^1111100^SPIRAL
+:aE:F:c::cFccc::FcEc^:Bc000BE:1c1c100^:ttmtc:ttFtFtFtFIFc:RELFcFm0:F3tFtttFt3t^tDtLt^htt^c^c1c0c:cScP:t:^cA1A^tUATc:::c^3:AdE:3:F:t:t:t:t:ttttt1c0FFcE^:^:C9ccFF
+
+[ ======[ SQUARE ]====== ]
+GENE VERSION 3
+ADULT
+^^^3^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:h:c:c:c:c:c:c:c:c:c:c:c:c:m:m^FFAFACFFFFFEBEFFF3EEEF3FFFFEFF3F^ADULT^0^0^0^1111100^SQUARE
+:aE:F:c:ccFccc::FcEc^:B:0003E:1c1c100^:ttmtc:ttFtFtFtFUFc:AEEFcFm0:F9tFtttFt3t^t3tLt^htt^c^c1c0c:cScQ:t:^cA1A^tUATc:::c^F:RdE:3:F:t:t:t:t:ttttt1c0FFcE^:^:CDccFF
+
+[ ======[ PUPILLESS ]====== ]
+GENE VERSION 3
+ADULT
+^^^3^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:h:c:c:c:c:c:c:c:c:c:c:c:c:m:m^FFAFACFFFFFEBECFFBEEEF3FFFFEFF3F^ADULT^0^0^0^1111100^PUPILLESS
+:c:m::c9ccc::FcEc^:BcL0^BE:^c^c1111:t^PUc:t^FAtAtFtPFcc:EEFFFL0E::tatttt3ttttttttthtt:c:c:c:c:Etct01::cF1c^:t:m^3DS:t:c^F:IdL:SFtAcUFTF0:0F0E^Fcc0F0ct^t:tCtF:F3cFC
+
+[ ======[ TRIANGLE ]====== ]
+GENE VERSION 3
+ADULT
+^^^3^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:h:c:c:c:c:c:c:c:c:c:c:c:c:m:m^FFAFACFFFFFEBE3FFBEEEF3FFFFEFF3F^ADULT^0^0^0^1111100^TRIANGLE
+E:c:F:c9:ccc::FcEc^:BcT00BE:0c1c1110:tTRtc:ttFtAtFtFIFc:FEAFGFE0c33tatttc:FtFt3t^tDhtt^c^c^c^c:Lcc01^:tcm1^^A:tAFU::F:c^3:FdN:EtE:F:t:t:t:t:ttttc0F:cF^FL:Cmt0ctc:
+
+[ ======[ MITOSIS ]====== ]
+GENE VERSION 3
+ADULT
+^^^3^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:h:c:c:c:c:c:c:c:c:c:c:c:c:m:m^FFAFAdFFFFFEBECFFBEEEF3FFFFEFFF3^ADULT^0^0^0^1111100^MITOSIS
+aE:m:::9:ccFc::FcEc^:Bc^0^BE:^c1c1100:tItmc:tAFAtFtFtTFcFCEFFSFE03FFtttttttttt3tt:t:htt:c:c:c:c:Stc1M::Fct1:^:^D^Lc:c:c^O:Id::cUtTc0F0F0E1F^3cA^c0Ftct^c:tdtFt:tc
+
+[ =========[ MOUTHS ]========= ]
+[ ======[ NONE ]====== ]
+GENE VERSION 3
+ADULT
+^^^3^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:h:c:c:c:c:c:c:c:c:c:c:c:c:m:m^FFAFAFFFFFFEBEFFFBEEEF3FFFFFFF3F^ADULT^0^0^0^1111100^NONE
+c:caE:c:::FFFcFc:cAcEc^:Bc000BE:1c1c0^NO:tt^tc:ttFtFtFc:NFEFcEmF:F90ctFtFtt3^tDtLt^t^t^htt1c1c1ccc:cmctFA:AcF1t^U0F:F:c^::Ed3:F:3:t:t:t:ttttt0::c0F:c:^:^TFtFt
+
+[ ======[ SIMPLE ]====== ]
+GENE VERSION 3
+ADULT
+^^^3^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:h:c:c:c:c:c:c:c:c:c:c:c:c:m:m^FFAFAF3FFFFEBEFFFBEEEF3FFFFFFF3F^ADULT^0^0^0^1111100^SIMPLE
+:aE:F:c::cFcFc:cFcEc^:Bc000BE:1c1c100^:ttmtc:ttFt3tFtFMFc:PEEFcFm0:F9tFt3tFt3t^tDtLt^htt^c^c1c0c:cScI:t:^cA1A^tUATc:::c^F:LdE:3:F:t:t:t:t:ttttt1c0FFc:^:^:FtccFF
+
+[ ======[ AH ]====== ]
+GENE VERSION 3
+ADULT
+^^^3^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:h:c:c:c:c:c:c:c:c:c:c:c:c:m:m^FFAFAF0FFFFEBEFFFBEEEF3FFFFEFF3F^ADULT^0^0^0^1111100^AH
+::c:FaE:::F:EFFcFc:cUcEc^:Bc001BE:1c0cAHtm:ttAtc:ttFtFc:F3cFmc:E9FcFF0At3t^tttLt^t^t^t^t1htt0c1ccctc^ctcA:0:Fct1T^c:F:c^E:3dF:t:D:t:t:ttttt^:::Fc0F:c:^010FF
+
+[ ======[ BOOMERANG ]====== ]
+GENE VERSION 3
+ADULT
+^^^3^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:h:c:c:c:c:c:c:c:c:c:c:c:c:m:m^FFAFACFFFFFEBEFFFBEEEF3FFFFCFF3F^ADULT^0^0^0^1111100^BOOMERANG
+:c:m::c9ccc::FcEc^:BcL0^BE:^c^c1111:t^BOc:t^FAtAtFtOFcc:EEFFF:0E:3tattt3tttttttttthtt:c:c:c:c:Atct01::cF1c^:t:m^3DG:t:c^F:MdR:NFtAcUFTF0:0F0C^Fcc0F0ct^t:tCtF:FEcFF
+
+[ ======[ CHEEKY ]====== ]
+GENE VERSION 3
+ADULT
+^^^3^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:h:c:c:c:c:c:c:c:c:c:c:c:c:m:m^FFAFAFFFFFFEBEFFFBEEEF3FFFFF3F3F^ADULT^0^0^0^1111100^CHEEKY
+:aE:F:c::cFcFc:cFcEc^:Bc000BE:1c1c100^:ttmtc:ttFtFtFtFEFc:EEYFcF30:F9tFttt3t3t^tDtLt^htt^c^c1c0c:cCcH:t:^cA1A^tUATc:::c^F:KdE:3:F:t:t:t:t:ttttt1c0FFc:^:^:FmccFF
+
+[ ======[ DIAMOND ]====== ]
+GENE VERSION 3
+ADULT
+^^^3^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:h:c:c:c:c:c:c:c:c:c:c:c:c:m:m^FFAFACFFFFFEBEFFFBEEEF3FFFFFFFbF^ADULT^0^0^0^1111100^DIAMOND
+aE:m:::9:cccc::bcEc^:Bc^0^BE:^c1c1100:tItmc:tAFAtFtFtAFcFFE3FOFE03:Fttttttttttttttt:htt:c:c:c:c:Dtc1D::FcF1:^:^D^Lc:c:c^M:Nd::cUtTc0F0F0F1F^FcA^c0Ftct^t:tCFFt:Fc
+
+[ ======[ WISEGUY ]====== ]
+GENE VERSION 3
+ADULT
+^^^3^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:h:c:c:c:c:c:c:c:c:c:c:c:c:m:m^FFAFACFFFFFEBEFFFBEEEF3FFFFFFF33^ADULT^0^0^0^1111100^WISEGUY
+aE:m:::9:cccc::3cEc^:Bc^0^BE:^c1c1100:tItmc:tAFAtFtFtSFcFFEFFGFE03FFttttttttt3ttttt:htt:c:c:c:c:Ytc1W::FcF1:^:^D^Lc:c:c^E:Ud::cUtTc0F0F0F1F^3cA^c0Ftct^t:tCtFt::c
+
+[ ======[ MOUTHBREATHER ]====== ]
+GENE VERSION 3
+ADULT
+^^^3^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:h:c:c:c:c:c:c:c:c:c:c:c:c:m:m^FFAFAFFFFFFEBEFFFBEEEF3FFFFEFC3F^ADULT^0^0^0^1111100^MOUTHBREATHER
+:ccmc:c:cccEc^:Bc^0DBE:^c^c^0^1:t110c:tOFmt^tAtUFctFEEFHFR0FBHtatttF:tttt3:tttht:tc:c:c:c:R:c:Lt:tc01:^F0:M:t:^FF3A:t:c^t:cdF:T:3FEETCEF:A9UFTc0c0Fcc1^1ttFtA:FtcEFt:tF
+
+[ ======[ POINTED ]====== ]
+GENE VERSION 3
+ADULT
+^^^3^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:h:c:c:c:c:c:c:c:c:c:c:c:c:m:m^FFAFAFFFFFFEBEFFFBEEEF3FFFFCFF3F^ADULT^0^0^0^1111100^POINTED
+aE:m:::9:ccFc:c3cEc^:Bc^0^BE:^c1c1100:tOtmc:tAFAtFtFtIFcFFEFFTFE03:3ttttttttttttttt:htt:c:c:c:c:Dtc1P::Fc:1:^:^D^Lc:c:c^N:Ed::cUtTc0F0F0C1F^FcA^c0Ftct^t:tFFFt:Fc
+
+[ ======[ SMUG ]====== ]
+GENE VERSION 3
+ADULT
+^^^3^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:h:c:c:c:c:c:c:c:c:c:c:c:c:m:m^FFAFACFFFFFEBEFFFBEEEF3FFFFFFF3F^ADULT^0^0^0^1111100^SMUG
+c:caE:c:::FFFccc::AcEc^:Bc000BE:1c1c0^SM:tt^tc:ttFtFtFc:UFGFcEmF:F90ctFtFttt^tDtLt3t^t^htt1c1c1ccc:cmctFA:AcF1t^U0F:F:c^::Ed3:F:3:t:t:t:ttttt0::c0FFc:^:^TC^Ft
+
+[ ======[ TOOTHY ]====== ]
+GENE VERSION 3
+ADULT
+^^^3^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:h:c:c:c:c:c:c:c:c:c:c:c:c:m:m^FFAFAFFFFFFEBEFFFBEEEF3FFFFEFCbF^ADULT^0^0^0^1111100^TOOTHY
+:aE:F:c::cFcEc:cFcEc^:Bc000BE:1c1c100^:ttmtc:ttFtFtFtFOFc:TEYFcFm0:F9tCttt3tbt^tDtLt^htt^c^c1c0c:cTcO:t:^cA1A^tUATc:::c^F:HdE:3:F:t:t:t:t:ttttt1c0FFc:^:^:FFccFF
+
+[ ======[ BLANK ]====== ]
+GENE VERSION 3
+ADULT
+^^^3^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:h:c:c:c:c:c:c:c:c:c:c:c:c:m:m^FFAFAFFFFFFEBEFFFBEEEF3FFFFEFF3F^ADULT^0^0^0^1111100^BLANK
+:caE:::9:cFFcFc:c^cEc^:Bc^0^BE:1c1c00^B:tmt^c:tAFFtFtFcAFcNFE3FEF30F:tttttttttttttt:t:htt:c:c:ctc:c1c:tF::c:1:^LD^m:F:c^::cdF:c0t030E1F1F^AcULTtc0Ftct^t:AFK:tF
+
+[ ======[ WOBBLY ]====== ]
+GENE VERSION 3
+ADULT
+^^^3^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:h:c:c:c:c:c:c:c:c:c:c:c:c:m:m^FFAFACFFFFFEBEFFFBEEEF3FFFFFFF3C^ADULT^0^0^0^1111100^WOBBLY
+:aE:F:c::cFccc::CcEc^:Bc000BE:1c1c100^:ttmtc:ttFtFtFtFBFc:BEY3cFm0:F9tFtttFt3t^tDtLt^htt^c^c1c0c:cWcO:t:^cA1A^tUATc:::c^F:LdE:3:F:t:t:t:t:ttttt1c0FFcF^:^:CFccFF
+
+[ =========[ NOSES ]========= ]
+[ ======[ BULB ]====== ]
+GENE VERSION 3
+ADULT
+^^^3^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:h:c:c:c:c:c:c:c:c:c:c:c:c:m:m^FFAFACFFFFFEBEFFFBEEAF3FFFFEFF3F^ADULT^0^0^0^1111100^BULB
+c:caE:c:::FFEccc::AcEc^:Bc000BE:1c1c0^BU:tt^tc:ttFtFtFc:LFBFcEmF:F90ctFtF3tt^tDtLt^t^t^htt1c1c1ccc:cmctFA:AcF1t^U0F:F:c^::Ad3:F:3:t:t:t:ttttt0::c0FFc:^:^TCtFt
+
+[ ======[ GREYHOUND ]====== ]
+GENE VERSION 3
+ADULT
+^^^3^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:h:c:c:c:c:c:c:c:c:c:c:c:c:m:m^FFAFACFFFFFEBEFFFBEECF3FFFFEFF3F^ADULT^0^0^0^1111100^GREYHOUND
+:c:m::c9ccc::FcEc^:BcL0^BE:^c^c1111:t^GRc:t^FAtAtFtEFcc:EEFFF30C:3tattttttttttttt:htt:c:c:c:c:Utct01::cF1c^:t:m^3DD:t:c^F:YdO:NFtAcUFTF0:0F0E^Fcc0F0ct^t:tCHF:FtcFF
+
+[ ======[ HALF_MALLOW ]====== ]
+GENE VERSION 3
+ADULT
+^^^3^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:h:c:c:c:c:c:c:c:c:c:c:c:c:m:m^FFAFACFFFFFEBEFFFBEEE33FFFFEFF3F^ADULT^0^0^0^1111100^HALF_MALLOW
+:c:mF:ccc::FcEc^:BcD0LBE:^:^c^111:t00^c:tmF^tAtAtLFctFEE3WF:0_LEta3ttttttttttttthtt:c:c:c:c:A:ctct:0c:1F^9t:t:A3F^L:t:c^ccFdF:MEFFOF:AcUcTc0:0F^c0F1c1^ttHCtF:FFc3::F
+
+[ ======[ MALLOW ]====== ]
+GENE VERSION 3
+ADULT
+^^^3^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:h:c:c:c:c:c:c:c:c:c:c:c:c:m:m^FFAFACFFFFFEBEFFFBEEE03FFFFEFF3F^ADULT^0^0^0^1111100^MALLOW
+:aE:F:c::cFccc::FcEc^:Bc000BE:1:1c100^:ttmtc:ttFtFtFtFLFc:LEW0cFm0:F9tF3ttFt3t^tDtLt^htt^c^c1c0c:cMcA:t:^cA1A^tUATc:::c^FcOdE:3:F:t:t:t:t:ttttt1c0FFcE^:^:CtccFF
+
+[ ======[ PUG ]====== ]
+GENE VERSION 3
+ADULT
+^^^3^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:h:c:c:c:c:c:c:c:c:c:c:c:c:m:m^FFAFACFFFFFEBEFFFBEEAC3FFFFEFF3F^ADULT^0^0^0^1111100^PUG
+:c:maE:9:c:FEFccc::DcEc^:Bc^0^Bc:1:0c^PUt:t^tAc:tFFFtFc:FGFFccEAC3FF03^tttttttttttt:t:t:htt:c:ctctc0c:cFt3::c:1^^^::::c^FEcd::F0t1F1F1A1UcTm0t0tc0Ftct^A:LCtF
+
+[ ======[ SQUARE ]====== ]
+GENE VERSION 3
+ADULT
+^^^3^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:h:c:c:c:c:c:c:c:c:c:c:c:c:m:m^FFAFACFFFFFEBEFFFBEEFC3FFFFEFF3F^ADULT^0^0^0^1111100^SQUARE
+:aE:F:c::cFccc::FcEc^:Bc000Bc:1:1c100^:ttmtc:ttFtFtFtFUFc:AEECcFm0:F9tFtttFt3t^t3tLt^htt^c^c1c0c:cScQ:t:^cA1A^tUATc:::c^FERdF:3:F:t:t:t:t:ttttt1c0FFcE^:^:CDccFF
+
+[ ======[ WEDGE ]====== ]
+GENE VERSION 3
+ADULT
+^^^3^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:h:c:c:c:c:c:c:c:c:c:c:c:c:m:m^FFAFACFFFFFEBEFFFBEEC33FFFFEFF3F^ADULT^0^0^0^1111100^WEDGE
+:caE:::9:cFFccc::^cEc^:Bc^0^BE:1:1c00^W:tmt^c:tAFFtFtFcDFcGFEE3C330F:tttttttttttttt:t:htt:c:c:ctc:c1c:tF:Fc:1:^LD^m:F:c^:ccdF:c0t030E1F1F^AcUETtc0Ftct^t:ACF:tF
+
+[ ======[ WIDE ]====== ]
+GENE VERSION 3
+ADULT
+^^^3^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:h:c:c:c:c:c:c:c:c:c:c:c:c:m:m^FFAFACFFFFFEBEFFFBEEBC3FFFFEFF3F^ADULT^0^0^0^1111100^WIDE
+c:caE:c:::FFEccc::AcEc^:Bc000Bc:1:1c0^WI:tt^tc:ttFtFtFc:DFEFcEmC:390ctFtFttt^tDtLt^t^t^htt1c1c1ccc:cmctFA:AcF1t^U0F:F:c^:EBd3:F:3:t:t:t:ttttt0::c0FFc:^:^TCFFt
+
+[ =========[ EARS ]========= ]
+[ ======[ TILTED ]====== ]
+GENE VERSION 3
+ADULT
+^^^3^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:h:c:c:c:c:c:c:c:c:c:c:c:c:m:m^FFAFACFBFFFEBEFFFBEEEF3FFFFEFF3F^ADULT^0^0^0^1111100^TILTED
+:aE:F:c::cFccc::F:Ec^:Bc000BE:1c1c100^:ttmtc:ttBtFtFtFLFc:TEDFcFm0:F9tF3ttFt3t^tDtLt^htt^c^c1c0c:cTcI:t:^cA1A^tUATc:::c^F:EdEc3:F:t:t:t:t:ttttt1c0FFcE^:^:CtccFF
+
+[ ======[ BENT ]====== ]
+GENE VERSION 3
+ADULT
+^^^3^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:h:c:c:c:c:c:c:c:c:c:c:c:c:m:m^FFAFACFFFFFEBEFFFBEEEFEFFFFEFF3F^ADULT^0^0^0^1111100^BENT
+c:caE:c:::FFEccc::AcEc^:Bc000BE:1c1c0^BE:tt^tc:ttFtFtFc:NFTFcEmF:F90ctFtFtt3^tDtLt^t^t^htt1c1c1ccc:cmctFA:AcF1t^U0F:F:c^::EdE:F:3:t:t:t:ttttt0::c0FFc:^:^TCtFt
+
+[ ======[ BLUNT ]====== ]
+GENE VERSION 3
+ADULT
+^^^3^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:h:c:c:c:c:c:c:c:c:c:c:c:c:m:m^FFAFACFFFFFEBEFFFBEEEF3EFFFEFF3F^ADULT^0^0^0^1111100^BLUNT
+:caE:::9:cFFccc::^cEc^:Bc^0^BE:1ccd00^B:tmt^c:tAFFtFtFcUFcNFETFEE30F:tttttttttttt3t:t:htt:c:c:ctc:c1c:tF:Fc:1:^LD^m:F:c^::c1F:c0t030E1F1F^AcULTtc0Ftct^t:ACt:tF
+
+[ ======[ BULBOUS ]====== ]
+GENE VERSION 3
+ADULT
+^^^3^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:h:c:c:c:c:c:c:c:c:c:c:c:c:m:m^FFAFACFFFFFEBEFFFBEEEFE3FFFEFF3F^ADULT^0^0^0^1111100^BULBOUS
+aE:m:::9:ccccc:3cEc^:Bc^0^BE:^c1d1100:tUtmc:tAFAtFtFtLFcFFEFFO3E0EFFtt3tttttttttt:t:htt:c:c:c:c:Stc1B::FcF1:^:^D^Lc:c:c^B:U:::cUtTc0F0F0E1F^FcA^c0Ftct^t:tCtFt:tc
+
+[ ======[ HORN ]====== ]
+GENE VERSION 3
+ADULT
+^^^3^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:h:c:c:c:c:c:c:c:c:c:c:c:c:m:m^FFAFACFFFFFEBEFFFBEEEFFF3FFEFF3F^ADULT^0^0^0^1111100^HORN
+c:caE:c:::FFEccc::AcEc^:Bc000BE:1c1c0^HO:tt^tc:ttFtFtFc:RFNFcEmF:F90ctFtFttt^tD3Lt^t^t^htt1c1c1ccc:cmctFA:AcF1t^U0F:F:c^::EdF:3:3:t:t:t:ttttt0::c0FFc:^:^TCtFt
+
+[ ======[ CROSS ]====== ]
+GENE VERSION 3
+ADULT
+^^^3^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:h:c:c:c:c:c:c:c:c:c:c:c:c:m:m^FFAFACFFFFFEBEFFFBEEEFF3FFFEFF3F^ADULT^0^0^0^1111100^CROSS
+:caE:::9:cFFcccc:^cEc^:Bc^0^BE:1c1d00^C:tmt^c:tAFFtFtFcOFcSFESFE3F0F:tttttt3ttttttt:t:htt:c:c:ctc:c1c:tF:Fc:1:^LD^m:F:c^::c:F:c0t030E1F1F^AcURTtc0Ftct^t:ACt:tF
+
+[ ======[ TWISTED ]====== ]
+GENE VERSION 3
+ADULT
+^^^3^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:h:c:c:c:c:c:c:c:c:c:c:c:c:m:m^FFAFACFFFFFEBEFFFBEEEFF23FFEFF3F^ADULT^0^0^0^1111100^TWISTED
+aE:m:::9:cccc::3cEc^:Bc^0^BE:^c1d1100:tWtmc:tAFAtFtFtIFcFFEFFT2E0F:3ttttttttttttttt:htt:c:c:c:c:Dtc1T::FcF1:^:^D^Lc:c:c^S:E::ccUtTc0F0F0E1F^FcA^c0Ftct^t:tC3Ft:Fc
+
+[ ======[ SHEPHERD ]====== ]
+GENE VERSION 3
+ADULT
+^^^3^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:h:c:c:c:c:c:c:c:c:c:c:c:c:m:m^FFAFACFFFFFEBEFFFBEEEFFFFFFEFF3F^ADULT^0^0^0^1111100^SHEPHERD
+E:c:F:c9:ccc::FcEc^:BcT00BE:0c1c1110:tSHtc:ttFtAtFtFEFc:FEPFEF30cFmtatttctFtFt3:^tDhtt^c^c^c^c:Rcc01^:tcm1^^A:tAFU::F:c^F:FdH:EtE:F:t:t:t:t:ttttc0F:cF^FL:CDt0ctc:
+
+[ ======[ WAVY ]====== ]
+GENE VERSION 3
+ADULT
+^^^3^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:h:c:c:c:c:c:c:c:c:c:c:c:c:m:m^FFAFACFFFFFEBEFFFBEEEFCFFFFEFF3F^ADULT^0^0^0^1111100^WAVY
+c:caE:c:::FFEccc::AcEc^:Bc000BE:1c1c0^WA:tt^tc:ttFtFtFc:VFYFcEmF:F90ctFtFttt^tDtLt^3^t^htt1c1c1ccc:cmctFA:AcF1t^U0F:F:c^::EdC:F:3:t:t:t:ttttt0::c0FFc:^:^TCtFt
+
+[ =========[ HORNS-STANDARD ]========= ]
+[ ======[ STANDARD_S ]====== ]
+GENE VERSION 3
+ADULT
+^^^3^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:h:c:c:c:c:c:c:c:c:c:c:c:c:m:m^FFAFACFFFFFEBEFFFBEEEF3FFbCFBCFF^ADULT^0^0^0^1111100^STANDARD_S
+::c:F:cccc::FcEc^:BcU0TBE:0c0c1111:t0^Sc:ttFtAtAtFAFcFcEE:NFA0DEStatttbt9tctC:BtFhttDcLc^c^c:R0cct1:0ct1T^m:^:tFCA_:F:c^::FdF:Dtmt3:F:t:t:t:t:ttc0F^c:^F^:CFt^ttcc3F
+
+[ ======[ THICK_S ]====== ]
+GENE VERSION 3
+ADULT
+^^^3^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:h:c:c:c:c:c:c:c:c:c:c:c:c:m:m^FFAFACFFFFFEBEFFFBEEEF3FFbCFB3FF^ADULT^0^0^0^1111100^THICK_S
+aE:m:::9:cccc::FcEc^:Bc^0^BE:^c1c1100:tHtmc:tAFAtFtFtIFcFFEFFKFE03F3ttttttttttttt:t:htt:c:c:c:c:Stc1T::FcC1:^:^D^Lc:c:c^C:_d::cUtTc0B0b0F13^FcA^c0Ftct^t:tCFFt:tc
+
+[ ======[ CURLED_S ]====== ]
+GENE VERSION 3
+ADULT
+^^^3^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:h:c:c:c:c:c:c:c:c:c:c:c:c:m:m^FFAFACFFFFFEBEFFFBEEEF3FFbC3BFFF^ADULT^0^0^0^1111100^CURLED_S
+E:c:F:c9:ccc::FcEc^:BcT00BE:0c1c1110:tCUtc:ttFtAtFtFRFc:FELFDFS0c3mtatttctC3BtFt^tDhtt^c^c^c:c:_cc01^:tcm1^^A:tAFU::F:c^F:FdE:Et3:F:t:t:t:t:ttttc0F:cF^bL:Ctt0c^c:
+
+[ ======[ NUB_S ]====== ]
+GENE VERSION 3
+ADULT
+^^^3^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:h:c:c:c:c:c:c:c:c:c:c:c:c:m:m^FFAFACFFFFFEBEFFFBEEEF3FFbCCBFFF^ADULT^0^0^0^1111100^NUB_S
+:caE:::9:cbCccc::^cEc^:Bc^0^BE:1c1c00^N:tmt^c:tAFFtFtFcBFc_FES3EF30F:tttttttttttttt:t:htt:c:c:ctc:c1c:tF:Bc:1:^LD^m:F:c^::cdF:c0t0F0C1F1F^AcUUTtc0Ftct^t:ACF:tF
+
+[ =========[ HORNS-CENTERED ]========= ]
+[ ======[ STANDARD_C ]====== ]
+GENE VERSION 3
+ADULT
+^^^3^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:h:c:c:c:c:c:c:c:c:c:c:c:c:m:m^FFAFACFFFFFEBEFFFBEEEF3FFC3EF33F^ADULT^0^0^0^1111100^STANDARD_C
+::c:F:cccc::EcEc^:BcU0TBE:0c0c1111:t0^Sc:ttFtAtAtFAFcFcEE:NFA0DECtatttCt9tct3:Ft3httDcLc^c^c:R0cct1:0ct1T^m:^:tF3A_:F:c^::FdF:Dtmt3:F:t:t:t:t:ttc0F^c:^F^:CFt^ttcc3F
+
+[ ======[ THICK_C ]====== ]
+GENE VERSION 3
+ADULT
+^^^3^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:h:c:c:c:c:c:c:c:c:c:c:c:c:m:m^FFAFACFFFFFEBEFFFBEEEF3FFC3ECF3F^ADULT^0^0^0^1111100^THICK_C
+aE:m:::9:cccc::3cEc^:Bc^0^BE:^c1c1100:tHtmc:tAFAtFtFtIFcFFEFFKFE0:F3ttttttttttttttt:htt:c:c:c:c:Ctc1T::Fc31:^:^D^Lc:c:c^C:_d::cUtTc0C0C0E1F^FcA^c0Ftct^t:tCFFt:3c
+
+[ ======[ CURLED_C ]====== ]
+GENE VERSION 3
+ADULT
+E:c:F:c9:ccc::FcEc^:BcT00BE:0c1c1110:tCUtc:ttFtAtFtFRFc:FELFDFC0c3mtatttct03Ft3t^tDhtt^c^c^c:c:_cc01^:tcm1^^A:tAFU::F:c^F:FdE:EtE:F:t:t:t:t:ttttc0F:cF^CL:Ctt0c^c:
+^^^3^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:h:c:c:c:c:c:c:c:c:c:c:c:c:m:m^FFAFACFFFFFEBEFFFBEEEF3FFC0EFF3F^ADULT^0^0^0^1111100^CURLED_C
+
+[ ======[ NUB_C ]====== ]
+GENE VERSION 3
+ADULT
+^^^3^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:h:c:c:c:c:c:c:c:c:c:c:c:c:m:m^FFAFACFFFFFEBEFFFBEEEF3FFC32FF3F^ADULT^0^0^0^1111100^NUB_C
+:caE:::9:cC3ccc::^cEc^:Bc^0^BE:1c1c00^N:tmt^c:tAFFtFtFcBFc_FEC3EF30F:tttttttttttttt:t:htt:c:c:ctc:c1c:tF:Fc:1:^LD^m:F:c^::cdF:c0t03021F1F^AcUUTtc0Ftct^t:ACF:tF
+
+[ =========[ TAILS ]========= ]
+[ ======[ STIFF ]====== ]
+GENE VERSION 3
+ADULT
+^^^3^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:m:n^FFAFACFCFFFEBEFFFBEEEF3FFFFEFF3F^ADULT^0^0^0^1111100^STIFF
+:c:naF:9:c:Fd3cccD:Lcc:^0EF^:cE^E0c^cTIFt^t^tAc:CFFFtBc:CFBEcmF3FFFFttttttttttttttt:t:t:ctt:c:ctc:c:c:cFt^::c^1^^t:::1c:A3cS::E1F1F1A0U1Tc0F0t0tc0EtctFF:^:0F
+
+[ ======[ CURLY ]====== ]
+GENE VERSION 3
+ADULT
+^^^3^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:m:n^FFAFACFC3FFEBEFFFBEEEF3FFFFEFF3F^ADULT^0^0^0^1111100^CURLY
+:c:naF:9:c:Fd3cccD:Lcc:^0EF^:cE^E0c^cURLt^t^tAc:C3FFtBc:CYBEcmF3FFFF0tttttttttttttt:t:ttctt:c:ctc:c:c:cFt^::c^1^^t:::1c:A3cC::E1F1F1A0U1Tc0F0t0tc0EtctFF:^::F
+
+[ ======[ FLOWY ]====== ]
+GENE VERSION 3
+ADULT
+^^^3^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:m:n^FFAFACFCCFFEBEFFFBEEEF3FFFFEFF3F^ADULT^0^0^0^1111100^FLOWY
+:c:naF:9:c:Fd3cccD:Lcc:^0EF^:cE^E0c^cLOWt^t^tAc:CCFFtBc:CYBEcmF3FFFF0tttttttttttttt:t:ttctt:c:ctc:c:c:cFt^::c^1^^t:::1c:A3cF::E1F1F1A0U1Tc0F0t0tc0EtctFF:^::F
+
+[ ======[ NUB ]====== ]
+GENE VERSION 3
+ADULT
+^^^3^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:m:n^FFAFACFECFFEBEFFFBEEEF3FFFFEFF3F^ADULT^0^0^0^1111100^NUB
+tm:c::aF:c:F:3d^cDcc:^cc:^0EF1:cE^E^cUc:tFt^tAtFc:EFFBc:CFcEBnc3FFFFFt0tttttttttttt:t:t:t:ctt:ctc:c:c:cFcLt::^c^1:^tA1c::3EBF:F1A0UNT00c0^0t1t1tc0EtcCF^:9:
+
+[ ======[ ARCED ]====== ]
+GENE VERSION 3
+ADULT
+^^^3^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:m:n^FFAFACFCBFFEBEFFFBEEEF3FFFFEFF3F^ADULT^0^0^0^1111100^ARCED
+:c:naF:9:c:Fd3cccD:Lcc:^0EF^:cE^E0c^cRCEt^t^tAc:CBFFtBc:CDBEcmF3FFtF0tttttttttttttt:t:t:ctt:c:ctc:c:c:cFt^::c^1^^t:::1c:A3cA::E1F1F1A0U1Tc0F0t0tc0EtctFF:^:FF
+
+[ ======[ BULBOUS ]====== ]
+GENE VERSION 3
+ADULT
+^^^3^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:m:n^FFAFACFCFFFEBEFFFB2CEF3FFFFEFF3F^ADULT^0^0^0^1111100^BULBOUS
+:maF:::9:cdFccc^:Dcc:^0EFc:^C^E1c0c^BUL^tFt^c:CFFFtFtBcOBcU2FSF3FF0Fttttttttttttttt:t:ctt:c:c:ctc:c:c:tF:3c:1L^t^:n:C^c::3c0A:c0:0E1F1F1A1UcTB0tc0EtctFt:A^t::F
+
+[ ======[ FERAL ]====== ]
+GENE VERSION 3
+ADULT
+^^^3^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:m:n^FFAFACFCFFFEBEFFF8CCEF3FFFFEFF3F^ADULT^0^0^0^1111100^FERAL
+:c:naF:9:c:Fd30ccD:Lcc:^:EFc:1C^E0c^cERAt^t^tAc:CFFFtBc:CL8CcmF3FFFF0tttttttttttttt:t:t:ctt:c:ctc:c:c:cFt^::c^1^^t:c:^c:A3cF::E1F1F1A0U1Tc0F0t0tc0EtctFF:^:tF
+
+[ ======[ UPRIGHT ]====== ]
+GENE VERSION 3
+ADULT
+^^^3^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:m:n^FFAFACFEBFFEBEFFFBECEF3FFFFEFF3F^ADULT^0^0^0^1111100^UPRIGHT
+:maF:::9:cdFc3cc:Dcc:^0EFc:^C^E1c0c^UPR^tFt^c:EFFBtFtBcGBcHEFTF3FF0tttttttttttttttt:t:ctt:c:c:ctc:c:c:tF:^c:1L^t^:n:C^c::3c0A:c0:0E1F1F1A1UcTI0tc0EtctFt:A^F::F
+
+[ ======[ PADDLE ]====== ]
+GENE VERSION 3
+ADULT
+^^^3^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:m:n^FFAFACFCFFFEBEFFF8ECEF3FFFFEFF3F^ADULT^0^0^0^1111100^PADDLE
+c:caF:c:::EdF0ccA:Ucc:^:EFc:1C^E1c0cPADD^tt^tc:CtFtFtBc:L8EEmFnF:F90ctFt3t^tDtLt^t^t^t^ctt1c0c1ccc:cFctFA:FcF1t^t:AcF0c::33^F:F:t:t:t:t:ttt:t:::c0EFc:FT100tCt
+
+[ ======[ PLUME ]====== ]
+GENE VERSION 3
+ADULT
+^^^3^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:m:n^FFAFACFCFFFEBEFFFBECEF3FFFFEFF3F^ADULT^0^0^0^1111100^PLUME
+:c:naF:9:c:Fd3cccD:Lcc:^0EFc:1C^E0c^cLUMt^t^tAc:CFFFtBc:CEBEcmF3FFFt0tttttttttttttt:t:t:ctt:c:ctc:c:c:cFt^::c^1^^t:::^c:A3cP::E1F1F1A0U1Tc0F0t0tc0EtctFF:^:FF
+
+[ ======[ WHIP ]====== ]
+GENE VERSION 3
+ADULT
+^^^3^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:m:n^FFAFACFCFFFEBEFFFBE0EF3FFFFEFF3F^ADULT^0^0^0^1111100^WHIP
+::c:AaF::cE:FdFcccU:Tcc:^0EF1:10^E0cWcIPtF^ttAtc:CtFtBc:CtmBnc:F9FcFF03t^tDtLt^t^t^t^t1t1ctt^c1ccctc^ctcFAF:Fct10^t:E:c:33FHF:t:t:t:t:ttt:t::::Fc0E:c0F00:cF
+
+[ ======[ FANCY ]====== ]
+GENE VERSION 3
+ADULT
+^^^3^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:m:n^FFAFACFCBFFEBEFFFBCCEF3FFFFEFF3F^ADULT^0^0^0^1111100^FANCY
+:c:naF:9:c:Fd3cccD:Lcc:^0EFc:1C^E0c^cANCt^t^tAc:CBFFtBc:CYBCcmF3FFFF0tttttttttttttt:t:ttctt:c:ctc:c:c:cFt^::c^1^^t:::^c:A3cF::E1F1F1A0U1Tc0F0t0tc0EtctFF:^::F
+
+[ ======[ BUN ]====== ]
+GENE VERSION 3
+ADULT
+^^^3^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:m:n^FFAFACFC3FFEBEFFFBCCEF3FFFFEFF3F^ADULT^0^0^0^1111100^BUN
+tm:c::aF:c:F:3d^cccL:^cc:^0EFc:1C^E^cUc:tFt^tAtFc:CFFBc:CFcCBnc3FFFFFt0tttttttttttt:t:t:t:ctt:ctc:c:c:cFcDt::^c^1:^tA1c::3ENF:F1A0UBT00c0^0t1t1tc0Etc3F^:9:
+
+[ ======[ TRI ]====== ]
+GENE VERSION 3
+ADULT
+^^^3^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:c:m:n^FFAFACFCFFFEBEFFF82CEF3FFFFEFF3F^ADULT^0^0^0^1111100^TRI
+tm:c::aF:c:F:3d^0ccL:^cc:^:EFc:1C^E^cRc:tFt^tAtFc:CFFBc:CFc28nc3FFFFFt0tttttttttttt:t:t:t:ctt:ctc:c:c:cFcDt::^c^1:^tA1c::3EIF:F1A0UTT00c0^0t1t1tc0EtcFF^:9c
+
+[ =========[ WINGS ]========= ]
+[ ======[ FLUFFY ]====== ]
+GENE VERSION 3
+ADULT
+^^^3^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:h:c:c:c:c:c:c:c:c:c:c:c:c:m:m^FFAFACFFFFCECEFFFBEEEF3FFFFEFF3F^ADULT^0^183.8116^0^1111100^FLUFFY
+:ccmccc::ccFE^:Cc^0DBE:^c^c83.8:t6^0c3t1Fmt^tAt1FctFEEFFFY0F00tatt:Ftttttttttthtttc:c:::c:^:c:Lt:tc11:^F^:1:t:1Fc3L:t:c^t:cdF:1:3FFEUFFF:A9UFTc0c0Fcc1^1ttC:A:FccECt::F
+
+[ ======[ BAT ]====== ]
+GENE VERSION 3
+ADULT
+^^^3^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:h:c:c:c:c:c:c:c:c:c:c:c:c:m:m^FFAFACFFFFCE3EFFFBEEEF3FFFFEFF3F^ADULT^0^183.8116^0^1111100^BAT
+::c:F:cccc::EcFc^:3cU0TBE:1c3c8116:t^11c3ttFtAtAtF1FcCcEFE1F00BETtaEttFt9tctFtFt3httDcLc^:^c:^0cct^:0ct11^m:^:tF:AA:F:c^::FdF:0tmt3:F:t:t:t:t:ttc0F.c:^F^:C:t8tccctF
+
+[ ======[ PARADISE ]====== ]
+GENE VERSION 3
+ADULT
+^^^3^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:h:c:c:c:c:c:c:c:c:c:c:c:c:m:m^FFAFACFFFFCE8EFFFBEEEF3FFFFEFF3F^ADULT^0^183.8116^0^1111100^PARADISE
+:cccc::9ccc^:8c30^BE:Lc^c^183:t116c3t1F1tmt^t1FctFEEFAFI0E1:tattt3t:t:tttttthtttctc:::c:^:c:T::tct10^:tF^m^:1:0FEFA:t:c^t:tdc:FFEc0:PFREDFSF:AcUc0FDcc^.t8C:A:Acc0FFCt:FF
+
+[ ======[ INSECT ]====== ]
+GENE VERSION 3
+ADULT
+^^^3^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:h:c:c:c:c:c:c:c:c:c:c:c:c:m:m^FFAFACFFFFCEBEFFFBEEEF3FFFFEFF3F^ADULT^0^183.8116^0^1111100^INSECT
+:ccmccc::ccEc^:Bc^0DBE:^c^c83.8:t6^0c3t1Fmt^tAt1FctFEEFEFT0F00tat:tFtttttttttthttt::c:::c:^:c:Lt:tc11:^F^:1:t:1FF3N:t:c^t:cdF:1:3FIESFCF:A9UFTc0c0Fcc1^1ttC:A:FccECt:cF
+
+[ ======[ VULTURE ]====== ]
+GENE VERSION 3
+ADULT
+^^^3^a91000ttttttttttttttttttttttttttttttd:c:c:c:c:c:c:c:c:c:c:c:c:c:c:h:c:c:c:c:c:c:c:c:c:c:c:c:m:m^FFAFACFFFFCE0EFFFBEEEF3FFFFEFF3F^ADULT^0^183.8116^0^1111100^VULTURE
+:ccccc:::cFc^:0cF0ABE:Tc0c183.:t16^c3t1Ftmt^tA1FcFtEEFTFR:1F:tatttUtEtctmt:t9ht:FcFc3c^c:ELc^:U:cc811^tF0F1:1:^E^FU:A:c^F:Cd::FtLt0tEt3:F:t:t:t:c0Ftct^^c:C:tDt0cVttc:F0

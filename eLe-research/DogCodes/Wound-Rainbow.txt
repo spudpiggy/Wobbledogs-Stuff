@@ -1,0 +1,67 @@
+[ =========[ DEFAULT-VARIATIONS ]========= ]
+[ ======[ DEFAULT ]====== ]
+aE:m:::9:cccc::3cEc^:Bc^0^BE:^c1c1100:tEtmc:tAFAtFtFtFFcFFEFFUFE33FFtttttttttttttt::htt:c:c:c:c:Ttc1D::FcF1:^:^D^Lc:c:c^A:Ld::cUtTc0F0F0E1F^FcA^c0Ftct^t:tC0Ft:tc
+
+[ ======[ TLUAFED ]====== ]
+FF^FFFFFFFFFFFFFFEFFFF:tF:7FFFFFFFFFFFFFFFLFFFFFFFFFFFFFFFFFFFFFF0FFFFFc:c:c^c:c:c:c:F:c:c:c:0:c:c:c:h:c:c:c:c:c:cFF^ttt:cFc:c:m:m^FFAFACFFFFF^EEFFFBEEEF3FFFFEFF3F^ADULT^0:0^0^1111100FFCUAFcDF^FFtFFFFFFFFFFFFFFF1FFF^FF3FFFFFFFFFFFFF:FFFFFFFFFF:FFFFFFFFc7ccFFBBT
+
+[ ======[ REVERSE ]====== ]
+^:t:AtF98tc3:1:Bc8FFc0FBF2F:F::nc02e21^7t:h:C0:ULT^0E02tcB1113R0VRE^A^F^c:EttEEFmF0EF:F0t:0EFFct:t:c^ctcFtt:0Ftc^ctc:0t3i^0ctDcckcSt:::0:cFFcF:cF:1:E^Ata:0d:EcFcB8AtFcccaAFm:FF:0t8tFF^F:cE
+
+[ =========[ SINGLE-COLOR ]========= ]
+[ ======[ DEFAULT-COLORS ]====== ]
+[ ===[ EARS ]=== ]
+:c80ctt9tF:c0cDFcCF00:Ec0:^3:F1:3ch3E^4Ft0c3:3:c:63DEL:t9:0^0E0c1E4A:^EFFFTaFUtt88Et0F81EFSEF0R:FBAcFc^:tE:tcD:cc^:9ctA^61^c08D03t::c0m0cFt1ttcFtctA::F3F:8ct1:F:344:E:mcc0cFcdFt:F:ttF^B^Dt:^
+
+[ ===[ HEAD ]=== ]
+:DtBF8t9:F:cE^0AFcc3EFntBc:L:cBcFc:d:F03c:::Ac01:3T^t8UtFC1t1Fm70AHEBm^F^cEttt10cFFE0Fchc:ccFFctaccFt^3Ftt:0Atcc:^F0c^Eat:otaA0D:ttBte2A::c:F::tEA1tF^c:d::F0E1c:c0FF:EF0^FtA0::F^:09F0D^c
+
+[ ===[ BODY ]=== ]
+::thcctF8t^EFc:F:i:08FFFF2:L0F:F:^Fc:1Fctc:c:^D:T^00t:UE:01B1F80Bm:c:E^Ftt0FCmFF:Bt0FFcEtctD930ttFA30:Foc:c8a0c:AYc81t2^tF^:tce1ecFtFAc2:ccFt:t:cFFc^j2E:Ft0F2t::0c3FcEccct^:F^:02F^8Ot1
+
+[ ======[ MONOCHROME ]====== ]
+[ ===[ BLACK ]=== ]
+:c:c10E9:E:tEn:Ft8F::t:^0F33UE^c:::FFc^ccFEc::cE:ct8F8cFEFT^ttcc0^1^F110F0BttF3m8A0FF:tF1F8AFF30tF0^K8t03FcF3:c0cD0LF:t3c^cA:1c000:^0t33cCct0att:8:8^tcEc:E:tjFc:Fth:ccFA:BE:CFtL:mF0E80EB0:3E3c^EF
+
+[ ===[ WHITE ]=== ]
+3c:cF0F8E3c10EFt038tcc0EBEE0^08::c^^tj:cc03AFtE:F0E::F00::FFFFccjc:0Fc:0:TFc:::381EaF00t1t18^0E^F^8^0FF88FHATF:EEFEFF0c8Bc30t31^E:UFFj:3E::ci100ct38:^ctmEct:EIcc:t8FccA9t0cc0t:FtF8:FFmFc:3htte:33DLFWF30C0^E^::
+
+[ ===[ GREY ]=== ]
+8^FA:E39:1FcE8a0A033ecFF3^c8FFE^tt:38E0cE0FcAcDE1F:0m:3EF:FF:Ec0hcREF::cc:tc03c11cEct8:FctmFB3E^:0BC303cFFFF^:::E00F:L8ttt0t8FFt01^T^3Ut^0c81:3t:EtGtE:00^EYicE0F8Ft3F:c0c:E8F:tFF:c:cE0^:::3tF8F03cjcF^cEFc::8
+
+[ ======[ RAINBOW ]====== ]
+[ ===[ RED ]=== ]
+:cFcctF9tBF3F0ct0:3tEFaFeA3:t1^08EFc:UFcmcct^0E^:cmc:FCCe00::CF0E88FEFFco:Fh:c::^:0t:0e10^FcD:iBt8^30EtFFFt8ERFFF^cF:3EcF0tTt30Ft1FL0^F^F0:occ:0:0c031:c0C1:1cF08tF8FF:0c:F8:^^1FF1DA1EA:0CFFFe0Eccc0t:ec:1E::FFc
+
+[ ===[ ORANGE ]=== ]
+FteAF7B:CFcFt^:0:0FCF0c08c0::eF08c2c::^cc1t:a0^FFn0cO:0NFe03c7:0Ftd0:F:C^A0EFcca:0::E00F1F10t3FRFt:1Ttc:aE1EtFF1^FCFFc:cEDtt9FaF^C0372Fh:FCt^^1^GF^FiF0:711mA02C1sc0tEt2C8c:ccFaEF08mFFF:F:cFe0::cct^c:ccLc0CcA:F:U:FFnB
+
+[ ===[ YELLOW ]=== ]
+t0Fc:0FmmBEjA8C0:FFF80cFFcF3:^0c^F:^1c0:F0A1tCUFcc:eF8LFF:FeDA:38cF:0:hjF:::0F0c1t1ccc:1c1FCcF^1:E30Y^8ctEF0C^tEFLFWec0:EEe9t0T300tF^tF30t^c^E3OL:cFEi0j^0C:c:j1t18tFoEFF::0tec0j:8FFFcecFB3EcE0Fct8FF:a::cF1F::0:c:0^F
+
+[ ===[ LIME ]=== ]
+Fte0:1C91^:B0Fc8:F0FFFF0Fc0BT0Cj3c:m:^ie00cFtj:C::38F0e8c:F0cE:c0FFcFc:FF8eA:0c:Fcm0EcF10c1ecC^10M3^F^Ec1tFF3^CIcEF0c:^0EE0FcLE0t8FtDEFF^cc0Ue:Fot:^F:01E:Ft8^jt3Ftt0ctFFF8::3jA8:FAacc:cFFtE:Fhjt31^:FF:00:1c:1:EcL:
+
+[ ===[ GREEN ]=== ]
+::3:Cth9cFB1FCF0FCFEF00888FT0E^3c0000Fc:8t8tm:jFFF0Fc:0FE:3FcccEFmE00:cF0:F:::F0^tc11:c0jFc10UFFt0FF^tncGFAF:FjcFFcAEEjFCtF0Fa^:DC^ttj^3cj^cc3^:01FcR:t00N8F08:FjF:t0F3AF::FF:EFc:tc0:::t8F3c:Bt^1F:0:L0ccc0F^^cc0
+
+[ ===[ JADE ]=== ]
+:taEt0097F::d3A:F0taFcc70F0:0BE:n::mct:70^:A0CFc::odCccF:EF0^FtaF8FDEEE1Fe:FtcFccc:a11t11A13F3UA0^cBTtF:^F1E0F:1cFtFF0odC^aFFFcd0o0^^D3L7F0FJ:80ccC:ccF^F^:ctc1FE081t:C:3cc0ct::EFCFc30cE3t0c::8F^tF0hFC0:0m0ECF^C:cF:
+
+[ ===[ CYAN ]=== ]
+cCtF:FFcFCc:FnC:jFctFFA:^C:j1^cFj0jFc:0h0tc:FtF:UF3F3A:10Fctc3jFF111:1F1^FTt1^FEtF^t:ENF1jFFFFFcEtFct9FccBc0CtFj^tL:F::t1A^^:^1c:BC:cFF:cCccFm0t::FCc:Fc:::E1ccFCcm:0aF1EAtFFY:Et1F1CF::ct:D^ctF^
+
+[ ===[ AZURE ]=== ]
+jFt0:F^9C1jFFa:FC:cFcFFFFEtEcjc10::F:c:cttB^F1c:FFFCjAZ0F:c1cDctmB1c^1F0^ACFU^T^0^AmE::1tFFFF1tc:tEt^FFc^EF:130c^hLFtA:1FUCctc0:3:CtCjc:j:cFF:jtFtFF:cC3c1^Fn:ccF:F1c0:F1:FtcF:EEcFtFRFtF:t:cC1F::
+
+[ ===[ BLUE ]=== ]
+cFt:08c^8ccBtjAcFFtat:AF:F:01cF800FFF:t3FFt1ccccFF3:Fj3j0:cc13DcCt1:3:00^F^FmUFTF^F8EFE8tFFFcEtFEtE^t9:FtctFt3F::hLcF::3:U3^:j^:FBFjFB::t::8cm1c3FF^8tFcnFc::cFF:c3cF3F1L:j^:^:jtEFFcF0c:t8:A^EFc
+
+[ ===[ PURPLE ]=== ]
+FF2cctF9BFc^tF8t0FF:F:BcEeT0t^3::c:C^cFt0F0tce3:83c0:oFFLcccF2UFEFCF1:8c0F028F:P1a:c:0110F0cFDUFF8^A0:m1t:ECPC0FEEeic3^LF^EE:3F:^FFCtC:AttRcF1318tco^:1c0eFFF^t08:c:FttF03e:c0C1m1hF:c::tFA:8:^::2FFF^cC0Cc00c0c:c:F
+
+[ ===[ MAGENTA ]=== ]
+:ccc0t09eF10cF:E:8FFFo:EBFcC:1c00^:CcF0cAFFFt0^^3::F:0FE:AECcFFFecEF:0:08hUFTCcoDt11AF00:C0^EL^m1NiF0EcF0B3FTGFE:^t3ctF^Fcc0:^^0tF118^tFt3Ea8tF01FAA1:E000::e33:tcF:c80:F:c:Fme8:8tcF::F3FF08EtFcccc:F1:Mcc0otF^:Fc
+
+[ ===[ ROSE ]=== ]
+::Fccc0Fe:cFFCF0F^ta0EF:81c0T1ctE:F8Um1cccctAF183c:F:0cE^:FB:cD:EFF:0c1F:o:ehc:c^::1^0:A01FOSCit^e^t0cm8F3EBERCFcEtFEFEFFtFE030FF13Lt^t3^00oc^CEt:c01c030Et:c10E8:tFF80:9e:e:1F1t8^t1FcF:FA:3F:1Et:c:F0cFC0^8FEFc:

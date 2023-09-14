@@ -1,0 +1,714 @@
+[EYE]
+01_01 DEFAULT           =   0   EYE_TYPE
+01_02 LIDDED            =   1   EYELIDS
+01_03 OBLONG            =   2   OBLONG_EYES
+01_04 SHOCKED           =   3   SMALL_PUPILS
+01_05 TRIPLE            =   4   SMALL_PUPILS        &   MULTI_PUPILS
+HEX                     =   5   GEOMETRIC_EYES      &   SPIRAL_EYES
+DOUBLE                  =   6   OBLONG_EYES         &   MULTI_PUPILS
+KEYHOLE                 =   7   DECORATIVE_EYES
+LASHY                   =   8   LASHES_EYES
+PUCK                    =   9   HORIZONTAL_EYES     &   OBLONG_EYES
+SLIM                    =   A   HORIZONTAL_EYES     &   LONG_EYES
+SPIRAL                  =   B   SPIRAL_EYES
+SQUARE                  =   C   GEOMETRIC_EYES
+PUPIL-LESS              =   D   MISSING_PUPIL_EYES
+TRIANGLE                =   E   TRIANGLE_EYES
+MITOSIS                 =   F   MISSING_PUPIL_EYES  &   MULTI_PUPILS
+
+[MOUTH]
+01 DEFAULT              =   0   TEETH               &   MOUTH_NEUTRAL
+NO_MOUTH                =   1   MOUTH_TYPE
+03 V                    =   2   V_MOUTH
+04 OPEN_V               =   3   V_MOUTH             &   OPEN_MOUTH
+BOOMERANG               =   4   TEETH               &   MOUTH_FROWN
+CHEEKY                  =   5   MOUTH_CHEEKS        &   !MOUTH_NEUTRAL
+DIAMOND                 =   6   TEETH               &   MOUTH_POINTED       &   !MOUTH_NEUTRAL
+WISEGUY                 =   7   TEETH               &   MOUTH_CUTOFF        &   !MOUTH_NEUTRAL
+MOUTHBREATHER           =   8   MOUTH_MISSING_TEETH &   !TEETH
+POINTED                 =   9   MOUTH_FROWN         &   !MOUTH_NEUTRAL
+SMUG                    =   A   TEETH               &   MOUTH_SMILE
+TOOTHY                  =   B   MOUTH_MISSING_TEETH &   MOUTH_POINTED       &   !TEETH
+WHISTLER                =   C   MOUTH_NEUTRAL
+WOBBLY                  =   D   TEETH               &   MOUTH_WIGGLE        &   !MOUTH_NEUTRAL
+
+[EAR]
+TYPE_A                  =   0   EAR_FILLED
+TYPE_B                  =   1   EAR_FILLED          &   TILTED_EARS
+BENT                    =   3   EAR_FLOPPY
+BLUNT                   =   2   EAR_FILLED          &   EAR_HALVED
+BULBOUS                 =   4   EAR_SHARP           &   EAR_FLOPPY
+HORN                    =   5   EAR_CONIC
+CROSS                   =   6   EAR_SHARP
+TWISTED                 =   7   EAR_SHARP           &   EAR_CONIC           &   EAR_HALVED
+SHEPHERD                =   8   EAR_TYPE
+WAVY                    =   9   EAR_PARTIAL_FLOP
+
+[HORN]
+NO_HORNS                =   0   !HORNS_CENTER       &   !HORNS_TRADITIONAL  |   HORNS_NONE
+CURLED                  =   1   HORNS_CURLED
+NUB                     =   2   HORNS_NUB
+THICK                   =   3   HORNS_THICK
+THIN                    =   4   HORNS_THIN
+
+[NOSE]
+TYPE_A                  =   0   NOSE_TYPE
+BULB                    =   1   NOSE_EXTRUSION
+GREYHOUND               =   2   NOSE_STRETCH
+HALF_MALLOW             =   3   NOSE_FLAT
+MALLOW                  =   4   NOSE_REPEATED       &   NOSE_FLAT
+PUG                     =   5   NOSE_REPEATED       &   NOSE_EXTRUSION
+SQUARE                  =   6   NOSE_REPEATED       &   NOSE_SQUISH
+TRIANGLE                =   7   NOSE_FLAT           &   NOSE_STRETCH
+WIDE                    =   8   NOSE_EXTRUSION      &   NOSE_REPEATED       &   NOSE_SQUISH
+
+[PATTERN]
+NONE                    =   0   NO_PATTERN
+SPLOTCHES               =   1   SPLOTCH_PATTERN
+STRIPES                 =   2   STRIPE_PATTERN
+REPEATING               =   3   REPEATING_PATTERN
+
+[TAIL]
+NO_TAIL                 =   0   NO_TAIL
+STIFF                   =   1   !TAIL_3D            &   STIFF_TAIL
+STIFF_CURLY             =   2   !TAIL_3D            &   STIFF_TAIL          &   REPEATED_TAIL
+FLOWY                   =   3   !TAIL_3D
+NUB                     =   4   !TAIL_3D            &   NUB_TAIL
+STIFF_SLIGHTLY_CURLY    =   5   !TAIL_3D            &   STIFF_TAIL          &   SLIGHTLY_CURLED_TAIL
+BULBOUS                 =   6   TAIL_3D             &   BULBOUS_TAIL
+FERAL                   =   7   TAIL_3D             &   CURLED_TAIL         &   FLAT_TAIL
+LIFTED                  =   8   TAIL_3D             &   NUB_TAIL            &   SLIGHTLY_CURLED_TAIL
+PADDLE                  =   9   TAIL_3D             &   FLAT_TAIL
+PLUME                   =   A   TAIL_3D
+WHIP                    =   B   TAIL_3D             &   THIN_TAIL           &   STIFF_TAIL
+CURL                    =   C   TAIL_3D             &   CURLED_TAIL         &   SLIGHTLY_CURLED_TAIL
+DOUBLE_CURL             =   D   TAIL_3D             &   CURLED_TAIL         &   REPEATED_TAIL
+TRI                     =   E   TAIL_3D             &   BULBOUS_TAIL        &   FLAT_TAIL
+
+[WING]
+NO_WINGS                =   0   MISSING_LEFT_WING   &   MISSING_RIGHT_WING  |   NO_WINGS
+ANGEL                   =   1   WING_FEATHERS       &   ALIGNMENT_GOOD
+BAT                     =   2   !WING_FEATHERS      &   ALIGNMENT_EVIL
+PARADISE                =   3   WING_FEATHERS       &   ALIGNMENT_NEUTRAL
+VESTIGAL                =   4   !WING_FEATHERS
+VULTURE                 =   5   WING_FEATHERS       &   ALIGNMENT_EVIL
+
+[DOG AGE]
+NONE                    =   0
+PUPPY                   =   1
+CHILD                   =   2
+TEEN                    =   3
+YOUNG_ADULT             =   4
+ADULT                   =   5
+ANCIENT                 =   6
+
+[PERSONALITY TYPE]
+SOCIAL                  =   0
+ENERGY                  =   1
+FOOD                    =   2
+MISCHIEF                =   3
+NICENESS                =   4
+PETTABLE                =   5
+LOUDNESS                =   6
+
+[GENETIC PROPERTY]
+[BODY|WING METALLIC]
+BodyMetallicPlus            =   0
+BodyMetallicMinus           =   1
+[BODY|WING GLOSS]
+BodyGlossPlus               =   2
+BodyGlossMinus              =   3
+[BODY|WING EMISSION]
+BodyEmissionColorRPlus      =   4
+BodyEmissionColorRMinus     =   5
+BodyEmissionColorGPlus      =   6
+BodyEmissionColorGMinus     =   7
+BodyEmissionColorBPlus      =   8
+BodyEmissionColorBMinus     =   9
+[BODY|WING COLOR]
+BodyColorRPlus              =   A
+BodyColorRMinus             =   B
+BodyColorGPlus              =   C
+BodyColorGMinus             =   E
+BodyColorBPlus              =   E
+BodyColorBMinus             =   F
+[HEAD|LEG METALLIC]
+LegMetallicPlus             =   10
+LegMetallicMinus            =   11
+[HEAD|LEG GLOSS|SMOOTHNESS]
+LegGlossPlus                =   12
+LegGlossMinus               =   13
+[HEAD|LEG EMISSION]
+LegEmissionColorRPlus       =   14
+LegEmissionColorRMinus      =   15
+LegEmissionColorGPlus       =   16
+LegEmissionColorGMinus      =   17
+LegEmissionColorBPlus       =   18
+LegEmissionColorBMinus      =   19
+[HEAD|LEG COLOR]
+LegColorRPlus               =   1A
+LegColorRMinus              =   1B
+LegColorGPlus               =   1C
+LegColorGMinus              =   1D
+LegColorBPlus               =   1E
+LegColorBMinus              =   1F
+[EAR|NOSE|HORN METALLIC]
+NoseEarMetallicPlus         =   20
+NoseEarMetallicMinus        =   21
+[EAR|NOSE|HORN GLOSS|SMOOTHNESS]
+NoseEarGlossPlus            =   22
+NoseEarGlossMinus           =   23
+[EAR|NOSE|HORN EMISSION]
+NoseEarEmissionColorRPlus   =   24
+NoseEarEmissionColorRMinus  =   25
+NoseEarEmissionColorGPlus   =   26
+NoseEarEmissionColorGMinus  =   27
+NoseEarEmissionColorBPlus   =   28
+NoseEarEmissionColorBMinus  =   29
+[EAR|NOSE|HORN COLOR]
+NoseEarColorRPlus           =   2A
+NoseEarColorRMinus          =   2B
+NoseEarColorGPlus           =   2C
+NoseEarColorGMinus          =   2D
+NoseEarColorBPlus           =   2E
+NoseEarColorBMinus          =   2F
+[NOSE MOD A]
+NoseModAPlus                =   30
+NoseModAMinus               =   31
+[HORN SIZE]
+HornSizePlus                =   32
+HornSizeMinus               =   33
+[EAR MOD A]
+EarModAPlus                 =   34
+EarModAMinus                =   35
+[EAR CURL]
+EarCurlLeft                 =   36
+EarCurlRight                =   37
+[SNOUT MOD A]
+SnoutModAPlus               =   38
+SnoutModAMinus              =   39
+[SNOUT MOD B]
+SnoutModBPlus               =   3A
+SnoutModBMinus              =   3B
+[SNOUT MOD C]
+SnoutModCPlus               =   3C
+SnoutModCMinus              =   3D
+[HEAD SIZE]
+HeadSizePlus                =   3E
+HeadSizeMinus               =   3F
+[HEAD NUMBER]
+HeadNumber                  =   40
+[BODY SCALE X]
+BodyScaleXPlus              =   41
+BodyScaleXMinus             =   42
+[BODY SCALE Z]
+BodyScaleZPlus              =   43
+BodyScaleZMinus             =   44
+[BODY SCALE Y]
+BodyScaleYPlus              =   45
+BodyScaleYMinus             =   46
+[BODY SCALE YZ]
+BodyScaleYZPlus             =   47
+BodyScaleYZMinus            =   48
+[BODY SCALE GLOBAL]
+BodyScaleGlobalPlus         =   49
+BodyScaleGlobalMinus        =   4A
+[TAIL SCALE]
+TailScalePlus               =   4B
+TailScaleMinus              =   4C
+[TAIL NUMBER]
+TailNum                     =   4D
+[WING SIZE]
+WingSizePlus                =   4E
+WingSizeMinus               =   4F
+[LEG SCALE XZ FRONT]
+LegScaleXZFrontPlus         =   50
+LegScaleXZFrontMinus        =   51
+[LEG SCALE XZ BACK]
+LegScaleXZBackPlus          =   52
+LegScaleXZBackMinus         =   53
+[LEG SCALE Y FRONT TOP]
+LegScaleYFrontTopPlus       =   54
+LegScaleYFrontTopMinus      =   55
+[LEG SCALE Y FRONT BOTTOM]
+LegScaleYFrontBotPlus       =   56
+LegScaleYFrontBotMinus      =   57
+[LEG SCALE Y BACK TOP]
+LegScaleYBackTopPlus        =   58
+LegScaleYBackTopMinus       =   59
+[LEG SCALE Y BACK BOTTOM]
+LegScaleYBackBotPlus        =   5A
+LegScaleYBackBotMinus       =   5B
+[LEG STANCE FRONT]
+StanceWidthFrontPlus        =   5C
+StanceWidthFrontMinus       =   5D
+[LEG STANCE BACK]
+StanceWidthBackPlus         =   5E
+StanceWidthBackMinus        =   5F
+[LEG PAIRS FRONT]
+LegPairsFront               =   60
+[LEG PAIRS BACK]
+LegPairsBack                =   61
+[PATTERN COLOR]
+PatternColorRPlus           =   62
+PatternColorRMinus          =   63
+PatternColorGPlus           =   64
+PatternColorGMinus          =   65
+PatternColorBPlus           =   66
+PatternColorBMinus          =   67
+[PATTERN EMISSION]
+PatternEmissionColorRPlus   =   68
+PatternEmissionColorRMinus  =   69
+PatternEmissionColorGPlus   =   6A
+PatternEmissionColorGMinus  =   6B
+PatternEmissionColorBPlus   =   6C
+PatternEmissionColorBMinus  =   6D
+[PATTERN ALPHA]
+PatternAlpha                =   6E
+[PATTERN METALLIC]
+PatternMetallicPlus         =   6F
+PatternMetallicMinus        =   70
+[PATTERN GLOSS|SMOOTHNESS]
+PatternSmoothnessPlus       =   71
+PatternSmoothnessMinus      =   72
+[PATTERN FREQUENCY]
+PatternNum                  =   73
+[PATTERN FLIP]
+PatternFlipX                =   74
+PatternFlipY                =   75
+[PATTERN VARIATION]
+PatternInfo                 =   76
+
+[GENETIC DOM REC PROPERTY]
+[NONE]
+NONE                    =   0
+[LEG]
+MISSING_FRONT_LEFT_LEG  =   1
+MISSING_FRONT_RIGHT_LEG =   2
+MISSING_BACK_LEFT_LEG   =   3
+MISSING_BACK_RIGHT_LEG  =   4
+
+[VOICE]
+VOICE_PITCH_HIGH        =   5
+VOICE_PITCH_LOW         =   4
+VOICE_HOARSE            =   7
+
+[EYE]
+EYELIDS                 =   9   domRecPropertyStatus    =   I1
+OBLONG_EYES             =   A   domRecPropertyStatus2   =   I2
+SMALL_PUPILS            =   8   domRecPropertyStatus3   =   I3
+MULTI_PUPILS            =   B   domRecPropertyStatus4   =   I4
+GEOMETRIC_EYES          =   1E  domRecPropertyStatus5   =   I5
+DECORATIVE_EYES         =   1F  domRecPropertyStatus6   =   I6
+LASHES_EYES             =   20  domRecPropertyStatus7   =   I7
+LONG_EYES               =   19  domRecPropertyStatus8   =   I8
+MISSING_PUPIL_EYES      =   1D  domRecPropertyStatus9   =   I9
+HORIZONTAL_EYES         =   1A  domRecPropertyStatus10  =   IA
+SPIRAL_EYES             =   1B  domRecPropertyStatus11  =   IB
+TRIANGLE_EYES           =   1C  domRecPropertyStatus12  =   IC
+
+int index = 0
+0                       =   
+1                       =   I1
+2                       =   I2
+3                       =   I3
+4                       =   I3 & I4
+5                       =   I5 & IB
+6                       =   I2 & I4
+7                       =   I6
+8                       =   I7
+9                       =   IA & I2
+A                       =   IA & I8
+B                       =   IB
+C                       =   I5
+D                       =   I9
+E                       =   IC
+F                       =   I9 & I4
+this.UpdateFaceSetByIndex(index)
+
+[MOUTH]
+TEETH                   =   C   domRecPropertyStatus    =   M1
+V_MOUTH                 =   D   domRecPropertyStatus2   =   M2
+MOUTH_SMILE             =   3D  domRecPropertyStatus3   =   M3
+MOUTH_FROWN             =   3E  domRecPropertyStatus4   =   M4
+MOUTH_CHEEKS            =   39  domRecPropertyStatus5   =   M5
+MOUTH_CUTOFF            =   3F  domRecPropertyStatus6   =   M6
+MOUTH_WIGGLE            =   40  domRecPropertyStatus7   =   M7
+OPEN_MOUTH              =   E   domRecPropertyStatus8   =   M8
+MOUTH_POINTED           =   3B  domRecPropertyStatus9   =   M9
+MOUTH_NEUTRAL           =   3C  domRecPropertyStatus10  =   MA
+MOUTH_MISSING_TEETH     =   3A  domRecPropertyStatus11  =   MB
+
+index = 1
+0                       =   M1 & MA
+1                       =   
+2                       =   M2
+3                       =   M2 & M8
+4                       =   M1 & M4
+5                       =   M5
+6                       =   M1 & M9
+7                       =   M1 & M6
+8                       =   MB
+9                       =   M4
+A                       =   M1 & M3
+B                       =   MB & M9
+C                       =   MA & M8
+D                       =   M1 & M7
+this.UpdateMouthByIndex(index)
+
+[EAR]
+EAR_TYPE                =                               =   E0
+EAR_SHARP               =   36  domRecPropertyStatus    =   E1
+EAR_CONIC               =   38  domRecPropertyStatus2   =   E2
+EAR_FILLED              =   33  domRecPropertyStatus3   =   E3
+EAR_FLOPPY              =   34  domRecPropertyStatus4   =   E4
+EAR_HALVED              =   37  domRecPropertyStatus5   =   E5
+TILTED_EARS             =   F   domRecPropertyStatus6   =   E6
+EAR_PARTIAL_FLOP        =   35  domRecPropertyStatus7   =   E7
+EAR_CURL_SYNCED         =   41                          =   E8
+EAR_CURL_LEFT           =                               =   E9
+EAR_CURL_RIGHT          =                               =   EA
+
+E8 = E9 & EA
+
+TYPE_A                  =   E3
+TYPE_B                  =   E3 & E6
+BENT                    =   E4
+BLUNT                   =   E3 & E5
+BULBOUS                 =   E1 & E4
+HORN                    =   E2
+CROSS                   =   E1
+TWISTED                 =   E1 & E2 & E5
+SHEPHERD                =   E0
+WAVY                    =   E7
+
+[TAIL]
+NO_TAIL                 =   14  domRecPropertyStatus    =   T1
+THIN_TAIL               =   2C  domRecPropertyStatus2   =   T2
+NUB_TAIL                =   10  domRecPropertyStatus3   =   T3
+FLAT_TAIL               =   29  domRecPropertyStatus4   =   T4
+STIFF_TAIL              =   11  domRecPropertyStatus5   =   T5
+BULBOUS_TAIL            =   2A  domRecPropertyStatus6   =   T6
+TAIL_3D                 =   2D  domRecPropertyStatus7   =   T7
+CURLED_TAIL             =   13  domRecPropertyStatus9   =   T8
+REPEATED_TAIL           =   2B  domRecPropertyStatus8   =   T9
+SLIGHTLY_CURLED_TAIL    =   12  domRecPropertyStatus10  =   TA
+
+NO_TAIL                 =   T1
+STIFF                   =   !T7 & T5
+STIFF_CURLY             =   !T7 & T5 & T9
+FLOWY                   =   !T7
+NUB                     =   !T7 & T3
+STIFF_SLIGHTLY_CURLY    =   !T7 & T5 & TA
+BULBOUS                 =   T7 & T6
+FERAL                   =   T7 & T8 & T4
+LIFTED                  =   T7 & T3 & TA
+PADDLE                  =   T7 & T4
+PLUME                   =   T7
+WHIP                    =   T7 & T2 & T5
+CURL                    =   T7 & T8 & TA
+DOUBLE_CURL             =   T7 & T8 & T9
+TRI                     =   T7 & T6 & T4
+
+[PATTERN]
+NO_PATTERN              =   15  domRecPropertyStatus    =   P1
+STRIPE_PATTERN          =   17  domRecPropertyStatus2   =   P2
+SPLOTCH_PATTERN         =   16  domRecPropertyStatus3   =   P3
+REPEATING_PATTERN       =   18  domRecPropertyStatus4   =   P4
+
+NONE                    =   P1
+SPLOTCHES               =   P3
+STRIPES                 =   P2
+REPEATING               =   P4
+
+[WING]
+NO_WINGS                =   21  domRecPropertyStatus    =   W1
+MISSING_LEFT_WING       =   22  flag                    =   WL
+MISSING_RIGHT_WING      =   23  flag2                   =   WR
+ALIGNMENT_GOOD          =   27  domRecPropertyStatus2   =   W2
+ALIGNMENT_EVIL          =   28  domRecPropertyStatus3   =   W3
+WING_FEATHERS           =   25  domRecPropertyStatus4   =   W4
+WING_ISSUES             =   24  domRecPropertyStatus5   =   W5
+ALIGNMENT_NEUTRAL       =   26  domRecPropertyStatus6   =   W6
+
+!W5                     =   !WL & !WR
+
+NO_WINGS                =   W1 | WL & WR
+ANGEL                   =   W4 & W2
+BAT                     =   !W4 & W3
+PARADISE                =   W4 & W6
+VESTIGAL                =   !W4
+VULTURE                 =   W4 & W3
+
+[NOSE]
+NOSE_FLAT               =   31  domRecPropertyStatus    =   N1
+NOSE_SQUISH             =   2F  domRecPropertyStatus2   =   N2
+NOSE_STRETCH            =   30  domRecPropertyStatus3   =   N3
+NOSE_REPEATED           =   32  domRecPropertyStatus4   =   N4
+NOSE_EXTRUSION          =   2E  domRecPropertyStatus5   =   N5
+
+TYPE_A                  =   DEFAULT
+BULB                    =   N5
+GREYHOUND               =   N3
+HALF_MALLOW             =   N1
+MALLOW                  =   N4 & N1
+PUG                     =   N4 & N5
+SQUARE                  =   N4 & N2
+TRIANGLE                =   N1 & N3
+WIDE                    =   N5 & N4 & N2
+
+[HORN]
+HORNS_CENTER            =   43  domRecPropertyStatus    =   H1
+HORNS_TRADITIONAL       =   42  domRecPropertyStatus2   =   H2
+HORNS_NONE              =   44  domRecPropertyStatus3   =   H3
+HORNS_CURLED            =   45  domRecPropertyStatus4   =   H4
+HORNS_NUB               =   46  domRecPropertyStatus5   =   H5
+HORNS_THICK             =   47  domRecPropertyStatus6   =   H6
+HORNS_THIN              =   48  domRecPropertyStatus7   =   H7
+
+NO_HORNS                =   H3 | !H1 & !H2
+CURLED                  =   H4
+NUB                     =   H5
+THICK                   =   H6
+THIN                    =   H7
+
+SINGLE HORN             =   H1
+DOUBLE HORN             =   H2
+
+[SOCIAL PERSONALITY TYPE]
+SOCIAL                  =   0
+STANDARD                =   1
+ALOOF                   =   2
+
+[ENERGY PERSONALITY TYPE]
+GOOF                    =   0
+STANDARD                =   1
+LAYABOUT                =   2
+
+[FOOD PERSONALITY TYPE]
+FOOD_OBSESSED           =   0
+STANDARD                =   1
+FOOD_AVERSE             =   2
+
+[MISCHIEF PERSONALITY TYPE]
+POLITE                  =   0
+STANDARD                =   1
+MISCHEVIOUS             =   2
+
+[NICENESS PERSONALITY TYPE]
+NICE                    =   0
+STANDARD                =   1
+MEAN                    =   2
+
+[PETTABLE PERSONALITY TYPE]
+LIKES_PETTING           =   0
+DISLIKES_PETTING        =   1
+
+[LOUDNESS PERSONALITY TYPE]
+STANDARD                =   0
+LOUD                    =   1
+QUIET                   =   2
+
+[FLOAT]
+LEFT                    =   f <= 33f
+MIDDLE                  =   f <= 66f
+RIGHT                   =   f
+
+[GENETIC VERSION]
+ALL     =   -1
+ZERO    =   0
+ONE     =   1
+TWO     =   2
+
+[GENE TYPE]
+STANDARD    =   0
+SUPER       =   1
+LOOPED      =   2
+
+[TRAIT TYPE]
+HOMO_DOM_AA =   0
+HET_Aa      =   1
+HOMO_SUB_aa =   2
+
+???
+DOM REC GENE >= 0x28
+    DOM REC GENE( 0, 5) = Aaaaa
+    DOM REC GENE(14, 5) = aaAAa
+    DOM REC GENE(1E, 5) = aaAaa
+
+char seperatorSymbol = |
+
+float tolerance = 0.0001f
+
+int maxGeneLen = 0x14
+
+int geneticEncodeSequenceLen = 0x14
+
+separatorSequenceSymbols:
+0 1 2 3 4 5 6 7 8 9 A B C
+: ; < = > ? @ [ # ] ^ _ *
+
+num <= 0x4669B420U
+    num <= 0x15672866U
+        num != 0x136963D7U
+            num != 0x13FE3A3BU
+                num = 0x15672866U
+                input: |1| = separatorSequenceSymbols[7]
+            input: ||| = separatorSequenceSymbols[8]
+        input: |0|= separatorSequenceSymbols[6]
+    num != 0x18588DBEU
+        num != 0x19588F51U
+            num = 0x4669B420U
+            input: |01 = separatorSequenceSymbols[1]
+        input: = |0 = separatorSequenceSymbols[9]
+    input: |1 = separatorSequenceSymbols[A]
+
+num <= 0x4FFE98AFU
+    num != 0x4769B5B3U
+        num != 0x4EFE971CU
+            num = 0x4FFE98AFU
+            input ||0 = separatorSequenceSymbols[4]
+        input: ||1 = separatorSequenceSymbols[5]
+    input: |00 = separatorSequenceSymbols[0]
+
+num <= 0xE166D68AU
+    num != 0x5558EDC5U
+        num = 0xE166D68AU
+        input: |10 = separatorSequenceSymbols[2]
+    input: || = separatorSequenceSymbols[B]
+
+num != 0xE266D81DU
+    num == 0xF90C4A3BU
+    input: | = separatorSequenceSymbols[C]
+input: |11 = separatorSequenceSymbols[3]
+
+ShouldDogUseOldHead
+    domRecGene Length >= 40 &
+        domRecGene(0) = "Aaaaa"
+        domRecGene(20) == "aaAAa"
+        domRecGene(30) == "aaAaa"
+
+[MASTER DOG GENE]
+currentGeneticVersion           =   TWO;
+seperatorSymbol                 =   '|';
+mutationRate                    =   0.0075f;
+baseDomRecMutationRate          =   0f;
+maxDomRecMutationRate           =   0.0075f;
+gutFloraMutationMax             =   0xF;
+mutationRateMin                 =   0.15f;
+mutationRateMax                 =   1f;
+crossoverRate                   =   0.7f;
+superMutationRate               =   0.05f;
+randomSeedSize                  =   0xA;
+
+[DOG LOOKS]
+leftLegs                        =    List
+rightLegs                       =    List
+allLegs                         =    List
+ghostlyAlphaDecayRate           =    1f
+ghostlyAlphaAttackRate          =    3f
+ghostMats                       =    List
+originalGhostMatEmissionColors  =    List
+lateGhostRenderers              =    List
+lateGhostMaterialAssignments    =    List
+defaultColorMax                 =    1f
+defaultEmissionColorMax         =    0.95f
+bodyMatMetallicMax              =    0.95f
+bodyMatGlossMax                 =    0.95f
+legMatMetallicMax               =    0.95f
+legMatGlossMax                  =    0.95f
+noseEarMatMetallicMax           =    0.95f
+noseEarMatGlossMax              =    0.95f
+hornSizeMin                     =    0.5f
+hornSizeMax                     =    0.5f
+headSizeMin                     =    0.4f
+headSizeMax                     =    0.2f
+cappedHeadSize                  =    0.5f
+bigHeadCutoff                   =    0.625f
+tinyHeadCutoff                  =    0.25f
+headRadius                      =    0.25f
+headNumMin                      =    1
+headnumMax                      =    1
+cappedHeadNumSoftMax            =    4
+cappedHeadNumHardMax            =    0xA
+bodyScaleXMin                   =    0.75f
+bodyScaleXMax                   =    0.75f
+cappedBodyScaleX                =    2f
+bodyScaleYMin                   =    0.5f
+bodyScaleYMax                   =    1f
+cappedBodyScaleY                =    2f
+bodyScaleYZMin                  =    0.3f
+bodyScaleYZMax                  =    0.3f
+cappedBodyScaleYZ               =    0.6f
+bodyScaleZMin                   =    0.5f
+bodyScaleZMax                   =    1f
+cappedBodyScaleZ                =    2f
+tailScaleMin                    =    0.5f
+tailScaleMax                    =    1.75f
+cappedTailScale                 =    2.25f
+tailNumMin                      =    1f
+tailNumMax                      =    1f
+tailRadius                      =    0.15f
+cappedTailNumber                =    4
+wingScaleMin                    =    0.75f
+wingScaleMax                    =    0.5f
+defaultScaleAdd                 =    0.3f
+legScaleXZMinFront              =    0.55f
+legScaleXZMaxFront              =    1f
+legScaleXZMaxFrontPuppy         =    0.6f
+legScaleXZMinBack               =    0.55f
+legScaleXZMaxBack               =    1f
+legScaleXZMaxBackPuppy          =    0.6f
+legScaleYMinFrontTop            =    0.15f
+legScaleYMaxFrontTop            =    0.75f
+legScaleYMinFrontBot            =    0.25f
+legScaleYMaxFrontBot            =    0.75f
+legScaleYMinBackTop             =    0.15f
+legScaleYMaxBackTop             =    0.75f
+legScaleYMinBackBot             =    0.25f
+legScaleYMaxBackBot             =    0.75f
+stanceWidthMin                  =    1f
+stanceWidthMax                  =    1f
+minLegSeparation                =    0.1f
+legNumberMin                    =    1f
+legNumberMax                    =    2f
+legNumberIncreaseRate           =    0.975f
+frontLegPairs                   =    1
+backLegPairs                    =    1
+cappedLegPairs                  =    6
+cappedLegPairsHard              =    0x1E
+legEndOffset                    =    0.4f
+legFrontOffset                  =    0.2f
+legBackOffset                   =    0.2f
+legPairSpace                    =    0.1f
+textureAlphaMax                 =    1f
+textureMetallicMax              =    0.75f
+textureSmoothnessMax            =    0.75f
+patternNumMax                   =    0x19
+splotchSizeMax                  =    100f
+splotchChance10                 =    5f
+splotchChance64                 =    85f
+splotchChance128                =    99f
+stripeInfoSize                  =    100f
+puppyBodyModX                   =    -0.1f
+puppyBodyModYZ                  =    0.1f
+puppyLegModY                    =    -0.2f
+puppyLegModXZ                   =    0.2f
+puppyTailModXYZ                 =    0.5f
+dogScale                        =    (1f, 1f, 1f)
+puppyScale                      =    (0.5f, 0.5f, 0.5f)
+dogScaleGlobalMin               =    0.5f
+dogScaleGlobalMax               =    0.5f
+cappedDogScaleGlobal            =    0.5f
+bodyFrontMov                    =    zero
+bodyBackMov                     =    zero
+backLegGirth                    =    1f
+frontLegGirth                   =    1f
+snoutModRotYMin                 =    95f
+snoutModRotYMax                 =    65f
+snoutModLenMin                  =    0.25f
+snoutModLenMax                  =    0.5f
+snoutModScaleMin                =    0.5f
+snoutModScaleMax                =    1f
+generateTextures                =    true
+ageRatio                        =    1f

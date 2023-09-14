@@ -1,0 +1,202 @@
+[===Dog Genes===]
+Size: 65 Elements
+
+Gene Swap Category: COLOR_SWAP
+Gene Category: BODY, LEGS, HEAD, 
+Version: ZERO
+* Metallic [Body|Leg|Nose/Ear|Pattern Metallic], * Gloss [Body|Leg|Nose/Ear|Pattern Gloss|Smoothness], * Emission R|G|B [|Nose/Ear Emission Color (Red|Green|Blue)], * Base R|G|B [|Nose/Ear Base| Color (Red|Green|Blue)], 
+Length: 5
+Loop Count: 2
+Super Mutation: 0
+Gene Type: STANDARD
+Plus Minus
+Discrete
+
+Gene Swap Category: HEAD_SWAP
+Gene Category: HEAD, 
+Version: ZERO
+Nose Size, Ear Length, 
+Length: 5
+Loop Count: 2
+Super Mutation: 0
+Gene Type: STANDARD
+Plus Minus
+Apply Minus Property To Starting Gene
+Discrete
+
+Gene Swap Category: HEAD_SWAP
+Gene Category: HEAD, 
+Version: ZERO
+ Snout Rotation, Snout Length, Snout Size, Head Size
+Length: 5
+Loop Count: 2
+Super Mutation: 0
+Gene Type: STANDARD
+Plus Minus
+Discrete
+Dynamic Loop Count
+
+Gene Swap Category: HEAD_SWAP
+Gene Category: HEAD, 
+Version: TWO
+Horn Size, 
+Length: 5
+Loop Count: 2
+Super Mutation: 0
+Gene Type: STANDARD
+Plus Minus
+Apply Minus Property To Starting Gene
+Discrete
+
+Gene Swap Category: HEAD_SWAP
+Gene Category: HEAD, 
+Version: TWO
+Ear Curl Left, Ear Curl Right
+Length: 5
+Loop Count: 2
+Super Mutation: 0
+Gene Type: STANDARD
+Apply Minus Property To Starting Gene
+Discrete
+
+Gene Swap Category: HEAD_SWAP
+Gene Category: HEAD, 
+Version: ZERO
+Head Number, 
+Length: 5
+Loop Count: 2
+Super Mutation: 1
+Gene Type: SUPER
+Discrete
+Dynamic Loop Count
+
+Gene Swap Category: BODY_SWAP
+Gene Category: BODY, 
+Version: ZERO
+Body Length, Body Height, Body Width, Body Girth, 
+Length: 5
+Loop Count: 2
+Super Mutation: 0.1
+Gene Type: SUPER
+Plus Minus
+Discrete
+
+Gene Swap Category: BODY_SWAP
+Gene Category: BODY, 
+Version: ZERO
+Body Size, 
+Length: 5
+Loop Count: 2
+Super Mutation: 0.05
+Gene Type: SUPER
+Plus Minus
+Apply Minus Property To Starting Gene
+Discrete
+
+Gene Swap Category: BODY_SWAP
+Gene Category: MISC, 
+Version: ZERO
+Tail Size, 
+Length: 5
+Loop Count: 2
+Super Mutation: 0
+Gene Type: SUPER
+Plus Minus
+Start At Lowest Value
+Discrete
+
+Gene Swap Category: BODY_SWAP
+Gene Category: MISC, 
+Version: ZERO
+Tail Number, 
+Length: 5
+Loop Count: 2
+Super Mutation: 1
+Gene Type: SUPER
+Discrete
+
+Gene Swap Category: BODY_SWAP
+Gene Category: MISC, 
+Version: TWO
+Wing Size, 
+Length: 5
+Loop Count: 2
+Super Mutation: 1
+Gene Type: STANDARD
+Plus Minus
+Discrete
+
+Gene Swap Category: LEG_SWAP
+Gene Category: LEGS, 
+Version: ZERO
+Front Leg Girth, Back Leg Girth, Front Top Leg Length, Front Bottom Leg Length, Back Top Leg Length, Back Bottom Leg Length, 
+Length: 5
+Loop Count: 2
+Super Mutation: 0.1
+Gene Type: SUPER
+Plus Minus
+Discrete
+
+Gene Swap Category: LEG_SWAP
+Gene Category: LEGS, 
+Version: ZERO
+Front Leg Stance Width, Back Leg Stance Width, 
+Length: 5
+Loop Count: 2
+Super Mutation: 0.025
+Gene Type: STANDARD
+Plus Minus
+Discrete
+
+Gene Swap Category: LEG_SWAP
+Gene Category: LEGS, 
+Version: ZERO
+Front Leg Number, Back Leg Number, 
+Length: 15
+Loop Count: 2
+Super Mutation: 1
+Gene Type: SUPER
+Discrete
+
+Gene Swap Category: COLOR_SWAP
+Gene Category: PATTERN, 
+Version: ZERO
+Length: 5
+Loop Count: 2
+Super Mutation: 0.025
+Gene Type: STANDARD
+Plus Minus
+Discrete
+
+Gene Swap Category: COLOR_SWAP
+Gene Category: PATTERN, 
+Version: ZERO
+Pattern Intensity, Frequency, 
+Length: 5
+Loop Count: 2
+Super Mutation: 0.025
+Gene Type: STANDARD
+Discrete
+
+Gene Swap Category: COLOR_SWAP
+Gene Category: PATTERN, 
+Version: ZERO
+Horizontal Flip, Vertical Flip, 
+Length: 1
+Loop Count: 25
+Super Mutation: 0.025
+Gene Type: LOOPED
+Discrete
+
+Gene Swap Category: COLOR_SWAP
+Gene Category: PATTERN, 
+Version: ZERO
+Variation
+Length: 5
+Loop Count: 25
+Super Mutation: 0.025
+Gene Type: LOOPED
+
+[===Dom Rec Genes===]
+Size: 63 Elements
+
